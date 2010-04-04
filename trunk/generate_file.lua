@@ -52,3 +52,10 @@ function generate_all_files()
 	generate_file( "10MB.txt",  10*MB_const)
 	generate_file("100MB.txt", 100*MB_const)
 end
+
+
+--[[
+| main - calls the generator for all files when called from the command line.
+--]]
+
+generate_all_files()
