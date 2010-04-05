@@ -21,6 +21,6 @@ local server = server_up()
 while true do
 	-- Client connection recieval.
 	local client = server:accept()
-	send_file(client, "server_mono")
+	send_file(client)
 	client:close()
 end

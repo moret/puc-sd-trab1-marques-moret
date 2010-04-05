@@ -7,23 +7,18 @@
 | Trabalho 1 - Tipos de servidores			  2010.1
 --]]
 
-local socket = require("socket")
 require("posix")
 require("sd_common")
 
 -- Initializing instrumentation counters
-local files = 20
-local name = arg[1] or ""
-local simultaneous_clients = arg[2] or 2
+local files = arg[1] or name or 20
+local name = arg[2] or name or ""
+local simultaneous_clients = arg[3] or simultaneous_clients or 4
 
 for cli=1, simultaneous_clients do
 	pid = posix.fork()
 	if pid ~= 0 then
-		for i=1, files do
-			-- Execute check step.
-			local sample, err = client_run("multi_client" .. name)
-			assert(sample, " ! Error while receiving file: ")
-		end
+		receive_files(files, "multi_cli" .. name .. cli)
 		break
 	end
 end

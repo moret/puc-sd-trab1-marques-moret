@@ -25,7 +25,7 @@ while true do
 	local pid = posix.fork()
 	if pid == 0 then -- Child process, pid stores the child's PID.
 	    server:close() -- Closes socket that the child is not using.
-	    send_file(client, "server_od")
+	    send_file(client)
 	    client:close()
 	    os.exit() -- Child ends execution
 	else -- Father process, pid ~= 0

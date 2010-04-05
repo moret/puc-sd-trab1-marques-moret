@@ -22,14 +22,15 @@ require("posix")
 require("sd_common")
 
 -- Total processes
-num_proc = arg[2] or 5
+local num_proc = arg[2] or num_proc or 5
 
 -- Getting the server up
 local server = server_up()
-local pid
+local pid, proc_num
 
 -- Setting que process pool.
 for i = 1, num_proc - 1 do
+	proc_num = i
 	pid = posix.fork()
 	if pid == 0 then -- Child process.
 		break
@@ -40,6 +41,6 @@ end
 while true do
 	-- Client connection recieval.
 	local client = server:accept()
-	send_file(client, "server_pre")
+	send_file(client)
 	client:close()
 end
