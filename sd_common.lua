@@ -31,12 +31,12 @@ local size_10MB =   10 * MB_const
 local size_100MB = 100 * MB_const
 
 -- Variables initialization
-local filepath = arg[1] or "10MB.txt" -- Path to file to be sent to clients.
+local filepath = arg[1] or filepath or "10MB.txt" -- Path to file to be sent to clients.
 local chunk_size = chunk_size or size_10KB
 
 -- Initializing instrumentation counters
-local instrumentation_interval = 5
-local loops = 1
+local debug_mode = false
+local instrumentation_steps = 5
 
 -- Getting server up on port 1111
 function server_up()
@@ -48,18 +48,18 @@ function server_up()
 end
 	
 -- File sending to client.
-function send_file(client, name)
+function send_file(client)
 	local _file = io.open(filepath, "r")
 	if _file then
 		client:send(_file:read("*all"))
 		_file:close()
+		if debug_mode then print("Transferred " .. filepath .. " file at " .. socket.gettime() .. "s") end
 	else
 		print("ERROR! File " .. filepath .. " could not be opened. Sending aborted.")
 	end
-	log(name)
 end
 
--- File sending to client.
+-- File receiveng from server.
 function client_run(name)
 	local client = socket.connect("localhost", 1111)
 	if not client then
@@ -67,13 +67,24 @@ function client_run(name)
 	end
 	local sample, err = client:receive("*a")
 	client:close()
-	log(name)
+	if debug_mode then print(name .. " received " .. filepath .. " file at " .. socket.gettime() .. "s") end
 	return sample, err
 end
 
-function log(name)
-	-- Instrumentation
-	if name then
-		print(name .. " transfered one file at " .. socket.gettime() .. "ms")
+-- Receive files loop
+function receive_files(files, name)
+	local files_per_step = files / instrumentation_steps
+	for j=1, instrumentation_steps do
+		-- Using socket.gettime to obtain better precision, i.e., not in seconds only
+		-- local start_time = os.time()
+		local start_time = socket.gettime()
+		for i=1, files_per_step do
+			-- Execute check step.
+			local sample, err = client_run(name)
+			assert(sample, " ! Error while receiving file: ")
+		end
+		-- When using socket.gettime, the method os.difftime is no longer usueful, so we're subtracting directly. It might not work the same way on differente OS's
+		-- print("Sent " .. files_per_step .. " files in " .. os.difftime(os.time(), start_time) .. "s")
+		print(name .. " received " .. files_per_step .. " files in " .. socket.gettime() - start_time .. "s")
 	end
 end
