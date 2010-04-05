@@ -24,5 +24,6 @@ for cli=1, simultaneous_clients do
 			local sample, err = client_run("multi_client" .. name)
 			assert(sample, " ! Error while receiving file: ")
 		end
+		break
 	end
 end
