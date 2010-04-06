@@ -15,7 +15,7 @@
 local socket = require("socket")
 require("sd_common")
 
-if debug then
+if _debug then
     list_initial_param(arg)
 end
 

@@ -21,12 +21,12 @@ local socket = require("socket")
 require("posix")
 require("sd_common")
 
-if debug then
+if _debug then
     list_initial_param(arg)
 end
 
 -- Total processes
-local num_proc = arg[3] or num_proc or 5
+local num_proc = num_proc or 5
 
 -- Getting the server up
 local server = server_up()
