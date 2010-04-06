@@ -100,11 +100,10 @@ function client_run(name, serv_addr, serv_port)
 	serv_addr = serv_addr or "localhost"
 	serv_port = serv_port or serv_well_known_port
 
-	-- Sets the socket.
 	local client = socket.tcp()
-	client:settimeout(30)
 
 	-- Start connection.
+	client:settimeout(30)
 	local connection_req_time = time_log("Starting connection.", name)
 	client:connect(serv_addr, serv_port)
 	local connect_sucess_time = elapsed_time_log("Connection stabilished.", name, connection_req_time)
@@ -114,6 +113,7 @@ function client_run(name, serv_addr, serv_port)
 	end
 
 	-- Start file receival.
+	client:settimeout(10*60) -- 10 min.
 	local receival_beg_time = time_log("Starting file receival.", name)
 	local sample, err = client:receive("*a")
 	client:close()
