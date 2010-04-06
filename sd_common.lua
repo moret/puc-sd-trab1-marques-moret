@@ -36,7 +36,7 @@ local chunk_size = chunk_size or size_10KB
 local serv_well_known_port = 1111
 
 -- Initializing instrumentation counters
-local debug_mode = false
+local debug_mode = arg[2] or false
 local instrumentation_steps = 5
 
 -- Getting server up on well known port.
@@ -104,6 +104,6 @@ function receive_files(files, name, serv_addr, serv_port)
 		print(name .. " received " .. files_per_step .. " files in " .. elapsed_time .. "s")
 	end
 	
-	 print("Files transfered: " .. files .. "\t Total time taken: " .. total_time)
+	 print(name .. "| Files transfered: " .. files .. "\t Total time taken: " .. total_time)
 	 print("Higher time taken: " .. higher_time .. "\t Average time taken: " .. total_time/files)
 end
