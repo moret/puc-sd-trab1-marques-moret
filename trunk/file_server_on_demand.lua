@@ -1,5 +1,5 @@
 --[[
-| Pontifícia Universidade Católica do Rio de Janeiro
+| Pontifï¿½cia Universidade Catï¿½lica do Rio de Janeiro
 | INF2545 - Sistemas Distribuidos	Prof.: Noemi
 | Alunos: Danilo Moret
 |		  Thiago M. C. marques
@@ -15,6 +15,10 @@
 local socket = require("socket")
 require("posix")
 require("sd_common")
+
+if debug then
+    list_initial_param(arg)
+end
 
 -- Getting the server up
 local server = server_up()

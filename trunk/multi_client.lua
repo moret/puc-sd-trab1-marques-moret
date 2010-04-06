@@ -10,6 +10,10 @@
 require("posix")
 require("sd_common")
 
+if debug then
+    list_initial_param(arg)
+end
+
 -- Initializing instrumentation counters
 local files = arg[1] or name or 20
 local name = arg[2] or name or ""
@@ -19,9 +23,9 @@ local serv_port = arg[5]
 
 for cli=1, simultaneous_clients do
 	pid = posix.fork()
-	if pid ~= 0 then
+	if pid ~= 0 then -- Child process
 		local client_name = "multi_cli" .. name .. cli
 		receive_files(files, client_name, serv_addr, serv_port)
-		break
+		os.exit()
 	end
 end

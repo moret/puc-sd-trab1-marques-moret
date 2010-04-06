@@ -32,19 +32,52 @@ local size_100MB = 100 * MB_const
 
 -- Variables initialization
 local filepath = arg[1] or filepath or "10MB.txt" -- Path to file to be sent to clients.
-local chunk_size = chunk_size or size_10KB
 local serv_well_known_port = 1111
 
 -- Initializing instrumentation counters
-local debug_mode = arg[2] or false
 local instrumentation_steps = 5
+
+-- Instrumentation: Lists initial parameters.
+function list_initial_param(arg)
+    if arg then
+	print("-- Initial parameters --")
+	for key, val in ipairs(arg) do
+	    print("Arg " .. key .. ": " .. val)
+	end
+	print("-- End of Initial parameters --")
+    else
+	print("-- No initial parameters passed (arg = nil)")
+    end
+    
+end
+
+-- Print a log message in the standard output. Format is: "[time] name: message". Returns the time.
+function time_log(message, name, end_time)
+    end_time = end_time or socket.gettime() 
+    local header = "[" .. end_time .. "] "
+    if name then
+	header = header .. name .. ": "
+    end
+
+    print(header .. message)
+    return end_time
+end
+
+function elapsed_time_log(message, name, start_time, end_time)
+    assert(start_time, " ! Error - Start time must not be nil.")
+
+    end_time = end_time or socket.gettime()
+    local elapsed_time = end_time - start_time
+    message = message .. " (elapsed time: " .. elapsed_time .. ")"
+    return time_log(message, name, end_time)
+end
 
 -- Getting server up on well known port.
 function server_up()
 	local server, server_error = socket.bind("*", serv_well_known_port)
 	assert(server, " ! Error - Could not create server. " .. (server_error or ""))
 	local ip, port = server:getsockname()
-	print("Listening on port " .. port)
+	time_log("Server listening on port " .. port)
 	return server
 end
 	
@@ -54,9 +87,9 @@ function send_file(client)
 	if _file then
 		client:send(_file:read("*all"))
 		_file:close()
-		if debug_mode then print("Transferred " .. filepath .. " file at " .. socket.gettime() .. "s") end
+		if debug then time_log("Transferred " .. filepath .. " file.") end
 	else
-		print("ERROR! File " .. filepath .. " could not be opened. Sending aborted.")
+		time_log("ERROR! File " .. filepath .. " could not be opened. Sending aborted.")
 	end
 end
 
@@ -66,13 +99,26 @@ function client_run(name, serv_addr, serv_port)
 	serv_addr = serv_addr or "localhost"
 	serv_port = serv_port or serv_well_known_port
 
-	local client = socket.connect(serv_addr, serv_port)
+	-- Sets the socket.
+	local client = socket.tcp()
+	client:settimeout(30)
+
+	-- Start connection.
+	local connection_req_time = time_log("Starting connection.", name)
+	client:connect(serv_addr, serv_port)
+	local connect_sucess_time = elapsed_time_log("Connection stabilished.", name, connection_req_time)
 	if not client then
-		return nil, "Could not connect to server."
+		local error_msg = "Could not connect to server at address: " .. serv_addr .. " port: " .. port
+		return nil, error_msg
 	end
+
+	-- Start file receival.
+	local receival_beg_time = time_log("Starting file receival.", name)
 	local sample, err = client:receive("*a")
 	client:close()
-	if debug_mode then print(name .. " received " .. filepath .. " file at " .. socket.gettime() .. "s") end
+	local receival_end_time = elapsed_time_log("File receival complete.", name, receival_beg_time)
+	local total_time = elapsed_time_log("Total time taken by client.", name, connection_req_time, receival_end_time)
+	
 	return sample, err
 end
 
@@ -88,8 +134,11 @@ function receive_files(files, name, serv_addr, serv_port)
 		local start_time = socket.gettime()
 		for i=1, files_per_step do
 			-- Execute check step.
+
 			local sample, err = client_run(name, serv_addr, serv_port)
-			assert(sample, " ! Error while receiving file: " .. (err or ""))
+			if not sample then
+			    print(" ! Error - File not received. " .. (err or ""))
+			end
 		end
 
 		local end_time = socket.gettime()

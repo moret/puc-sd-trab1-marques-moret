@@ -1,5 +1,5 @@
 --[[
-| Pontif�cia Universidade Cat�lica do Rio de Janeiro
+| Pontifícia Universidade Católica do Rio de Janeiro
 | INF2545 - Sistemas Distribuidos	Prof.: Noemi
 | Alunos: Danilo Moret
 |		  Thiago M. C. marques
@@ -8,6 +8,12 @@
 --]]
 
 require("sd_common")
+
+-- Instrumentation: Lists initial parameters.
+if debug then
+    list_initial_param(arg)
+end
+
 
 -- Initializing instrumentation counters
 local files = arg[1] or name or 20
