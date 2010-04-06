@@ -1,5 +1,5 @@
 --[[
-| Pontifícia Universidade Católica do Rio de Janeiro
+| Pontifï¿½cia Universidade Catï¿½lica do Rio de Janeiro
 | INF2545 - Sistemas Distribuidos	Prof.: Noemi
 | Alunos: Danilo Moret
 |		  Thiago M. C. marques
@@ -12,5 +12,7 @@ require("sd_common")
 -- Initializing instrumentation counters
 local files = arg[1] or name or 20
 local name = arg[2] or name or ""
+local serv_addr = arg[3]
+local serv_port = arg[4]
 
-receive_files(files, "single_cli" .. name)
+receive_files(files, "single_cli" .. name, serv_addr, serv_port)
