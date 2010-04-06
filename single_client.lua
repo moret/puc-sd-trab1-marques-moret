@@ -10,7 +10,7 @@
 require("sd_common")
 
 -- Instrumentation: Lists initial parameters.
-if debug then
+if _debug then
     list_initial_param(arg)
 end
 
