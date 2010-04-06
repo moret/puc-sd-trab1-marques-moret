@@ -1,5 +1,5 @@
 --[[
-| Pontifícia Universidade Católica do Rio de Janeiro
+| Pontifï¿½cia Universidade Catï¿½lica do Rio de Janeiro
 | INF2545 - Sistemas Distribuidos	Prof.: Noemi
 | Alunos: Danilo Moret
 |		  Thiago M. C. marques
@@ -33,14 +33,15 @@ local size_100MB = 100 * MB_const
 -- Variables initialization
 local filepath = arg[1] or filepath or "10MB.txt" -- Path to file to be sent to clients.
 local chunk_size = chunk_size or size_10KB
+local serv_well_known_port = 1111
 
 -- Initializing instrumentation counters
 local debug_mode = false
 local instrumentation_steps = 5
 
--- Getting server up on port 1111
+-- Getting server up on well known port.
 function server_up()
-	local server, server_error = socket.bind("*", 1111)
+	local server, server_error = socket.bind("*", serv_well_known_port)
 	assert(server, " ! Error - Could not create server. " .. (server_error or ""))
 	local ip, port = server:getsockname()
 	print("Listening on port " .. port)
@@ -60,8 +61,12 @@ function send_file(client)
 end
 
 -- File receiveng from server.
-function client_run(name)
-	local client = socket.connect("localhost", 1111)
+function client_run(name, serv_addr, serv_port)
+	-- Parameter's default values initialization.
+	serv_addr = serv_addr or "localhost"
+	serv_port = serv_port or serv_well_known_port
+
+	local client = socket.connect(serv_addr, serv_port)
 	if not client then
 		return nil, "Could not connect to server."
 	end
@@ -72,19 +77,33 @@ function client_run(name)
 end
 
 -- Receive files loop
-function receive_files(files, name)
+function receive_files(files, name, serv_addr, serv_port)
 	local files_per_step = files / instrumentation_steps
+	local total_time = 0
+	local higher_time = 0
+
 	for j=1, instrumentation_steps do
 		-- Using socket.gettime to obtain better precision, i.e., not in seconds only
 		-- local start_time = os.time()
 		local start_time = socket.gettime()
 		for i=1, files_per_step do
 			-- Execute check step.
-			local sample, err = client_run(name)
-			assert(sample, " ! Error while receiving file: ")
+			local sample, err = client_run(name, serv_addr, serv_port)
+			assert(sample, " ! Error while receiving file: " .. (err or ""))
 		end
+
+		local end_time = socket.gettime()
+		local elapsed_time = end_time - start_time
+		if elapsed_time > higher_time then
+		    higher_time = elapsed_time
+		end
+		total_time = total_time + elapsed_time
+
 		-- When using socket.gettime, the method os.difftime is no longer usueful, so we're subtracting directly. It might not work the same way on differente OS's
 		-- print("Sent " .. files_per_step .. " files in " .. os.difftime(os.time(), start_time) .. "s")
-		print(name .. " received " .. files_per_step .. " files in " .. socket.gettime() - start_time .. "s")
+		print(name .. " received " .. files_per_step .. " files in " .. elapsed_time .. "s")
 	end
+	
+	 print("Files transfered: " .. files .. "\t Total time taken: " .. total_time)
+	 print("Higher time taken: " .. higher_time .. "\t Average time taken: " .. total_time/files)
 end
