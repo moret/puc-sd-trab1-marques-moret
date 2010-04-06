@@ -31,11 +31,12 @@ local size_10MB =   10 * MB_const
 local size_100MB = 100 * MB_const
 
 -- Variables initialization
-local filepath = arg[1] or filepath or "10MB.txt" -- Path to file to be sent to clients.
-local serv_well_known_port = 1111
+local filepath = filepath or "10MB.txt" -- Path to file to be sent to clients.
+local serv_well_known_port = serv_well_known_port or 1111
 
 -- Initializing instrumentation counters
 local instrumentation_steps = 5
+local _debug = _debug or false
 
 -- Instrumentation: Lists initial parameters.
 function list_initial_param(arg)
@@ -59,7 +60,7 @@ function time_log(message, name, end_time)
 	header = header .. name .. ": "
     end
 
-    print(header .. message)
+    if _debug then print(header .. message) end
     return end_time
 end
 
@@ -87,7 +88,7 @@ function send_file(client)
 	if _file then
 		client:send(_file:read("*all"))
 		_file:close()
-		if debug then time_log("Transferred " .. filepath .. " file.") end
+		if _debug then time_log("Transferred " .. filepath .. " file.") end
 	else
 		time_log("ERROR! File " .. filepath .. " could not be opened. Sending aborted.")
 	end
@@ -153,6 +154,6 @@ function receive_files(files, name, serv_addr, serv_port)
 		print(name .. " received " .. files_per_step .. " files in " .. elapsed_time .. "s")
 	end
 	
-	 print(name .. "| Files transfered: " .. files .. "\t Total time taken: " .. total_time)
-	 print("Higher time taken: " .. higher_time .. "\t Average time taken: " .. total_time/files)
+	print(name .. "| Files transfered: " .. files .. "\t Total time taken: " .. total_time)
+	print("Higher time taken: " .. higher_time .. "\t Average time taken: " .. total_time/files)
 end

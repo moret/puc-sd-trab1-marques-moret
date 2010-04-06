@@ -14,11 +14,9 @@ if _debug then
     list_initial_param(arg)
 end
 
-
 -- Initializing instrumentation counters
-local files = arg[1] or name or 20
-local name = arg[2] or name or ""
-local serv_addr = arg[3]
-local serv_port = arg[4]
+local files = files or 20
+local name = name or "mc"
+local serv_addr = serv_addr or "localhost"
 
-receive_files(files, "single_cli" .. name, serv_addr, serv_port)
+receive_files(files, "single_cli" .. name, serv_addr, serv_well_known_port)
