@@ -1,0 +1,35 @@
+multi_clidtop4 received 4 files in 848.32098889351s
+multi_clidtop4 received 4 files in 1102.5241279602s
+multi_clidtop4 received 4 files in 1104.0420329571s
+multi_clidtop4 received 4 files in 1126.8520050049s
+multi_clidtop4 received 4 files in 1146.2017591s
+multi_clidtop4| Files transfered: 20	 Total time taken: 5327.9409139156
+Higher time taken: 1146.2017591	 Average time taken: 266.39704569578
+multi_clidtop3 received 4 files in 859.32347893715s
+multi_clidtop3 received 4 files in 1102.3691701889s
+multi_clidtop3 received 4 files in 1104.1856491566s
+multi_clidtop3 received 4 files in 1126.8902568817s
+multi_clidtop3 received 4 files in 1146.1630549431s
+multi_clidtop3| Files transfered: 20	 Total time taken: 5338.9316101074
+Higher time taken: 1146.1630549431	 Average time taken: 266.94658050537
+multi_clidtop2 received 4 files in 870.32244110107s
+multi_clidtop2 received 4 files in 1102.3618280888s
+multi_clidtop2 received 4 files in 1104.1382849216s
+multi_clidtop2 received 4 files in 1126.8693621159s
+multi_clidtop2 received 4 files in 1146.2288389206s
+multi_clidtop2| Files transfered: 20	 Total time taken: 5349.9207551479
+Higher time taken: 1146.2288389206	 Average time taken: 267.4960377574
+multi_clidtop1 received 4 files in 1013.8250160217s
+multi_clidtop1 received 4 files in 1102.0914759636s
+multi_clidtop1 received 4 files in 1102.6757540703s
+multi_clidtop1 received 4 files in 1135.7304148674s
+multi_clidtop1 received 4 files in 1147.1786420345s
+multi_clidtop1| Files transfered: 20	 Total time taken: 5501.5013029575
+Higher time taken: 1147.1786420345	 Average time taken: 275.07506514788
+multi_clidtop5 received 4 files in 1024.7752239704s
+multi_clidtop5 received 4 files in 1102.0755569935s
+multi_clidtop5 received 4 files in 1102.6606040001s
+multi_clidtop5 received 4 files in 1135.7773919106s
+multi_clidtop5 received 4 files in 1147.0731699467s
+multi_clidtop5| Files transfered: 20	 Total time taken: 5512.3619468212
+Higher time taken: 1147.0731699467	 Average time taken: 275.61809734106
