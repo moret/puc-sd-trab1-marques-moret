@@ -1,0 +1,7 @@
+multi_clidtop1 received 4 files in 2.0105020999908s
+multi_clidtop1 received 4 files in 1.9906280040741s
+multi_clidtop1 received 4 files in 2.0456759929657s
+multi_clidtop1 received 4 files in 2.0027449131012s
+multi_clidtop1 received 4 files in 1.9656898975372s
+multi_clidtop1| Files transfered: 20	 Total time taken: 10.015240907669
+Higher time taken: 2.0456759929657	 Average time taken: 0.50076204538345
