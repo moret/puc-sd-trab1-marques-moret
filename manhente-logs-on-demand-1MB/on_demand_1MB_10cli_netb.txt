@@ -1,0 +1,35 @@
+multi_clinetb1 received 4 files in 18.210531949997s
+multi_clinetb1 received 4 files in 23.846477985382s
+multi_clinetb1 received 4 files in 21.165450811386s
+multi_clinetb1 received 4 files in 22.168237924576s
+multi_clinetb1 received 4 files in 23.91335606575s
+multi_clinetb1| Files transfered: 20	 Total time taken: 109.30405473709
+Higher time taken: 23.91335606575	 Average time taken: 5.4652027368546
+multi_clinetb4 received 4 files in 18.69961810112s
+multi_clinetb4 received 4 files in 23.91651391983s
+multi_clinetb4 received 4 files in 21.106717824936s
+multi_clinetb4 received 4 files in 22.200784921646s
+multi_clinetb4 received 4 files in 23.89977812767s
+multi_clinetb4| Files transfered: 20	 Total time taken: 109.8234128952
+Higher time taken: 23.91651391983	 Average time taken: 5.4911706447601
+multi_clinetb5 received 4 files in 19.163567066193s
+multi_clinetb5 received 4 files in 24.080924987793s
+multi_clinetb5 received 4 files in 21.03329205513s
+multi_clinetb5 received 4 files in 22.194478988647s
+multi_clinetb5 received 4 files in 23.848994970322s
+multi_clinetb5| Files transfered: 20	 Total time taken: 110.32125806808
+Higher time taken: 24.080924987793	 Average time taken: 5.5160629034042
+multi_clinetb3 received 4 files in 21.030790090561s
+multi_clinetb3 received 4 files in 22.66063785553s
+multi_clinetb3 received 4 files in 21.095669984818s
+multi_clinetb3 received 4 files in 22.249042034149s
+multi_clinetb3 received 4 files in 23.74859380722s
+multi_clinetb3| Files transfered: 20	 Total time taken: 110.78473377228
+Higher time taken: 23.74859380722	 Average time taken: 5.5392366886139
+multi_clinetb2 received 4 files in 21.582128047943s
+multi_clinetb2 received 4 files in 22.551792144775s
+multi_clinetb2 received 4 files in 21.263833045959s
+multi_clinetb2 received 4 files in 22.132219791412s
+multi_clinetb2 received 4 files in 23.754034042358s
+multi_clinetb2| Files transfered: 20	 Total time taken: 111.28400707245
+Higher time taken: 23.754034042358	 Average time taken: 5.5642003536224

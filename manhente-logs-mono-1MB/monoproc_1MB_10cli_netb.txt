@@ -1,0 +1,35 @@
+multi_clinetb1 received 4 files in 20.102216959s
+multi_clinetb1 received 4 files in 23.912213802338s
+multi_clinetb1 received 4 files in 21.605501174927s
+multi_clinetb1 received 4 files in 24.039738178253s
+multi_clinetb1 received 4 files in 22.910015106201s
+multi_clinetb1| Files transfered: 20	 Total time taken: 112.56968522072
+Higher time taken: 24.039738178253	 Average time taken: 5.6284842610359
+multi_clinetb3 received 4 files in 20.580476999283s
+multi_clinetb3 received 4 files in 23.877192974091s
+multi_clinetb3 received 4 files in 21.613579034805s
+multi_clinetb3 received 4 files in 24.051647186279s
+multi_clinetb3 received 4 files in 22.964643955231s
+multi_clinetb3| Files transfered: 20	 Total time taken: 113.08754014969
+Higher time taken: 24.051647186279	 Average time taken: 5.6543770074844
+multi_clinetb2 received 4 files in 21.061272144318s
+multi_clinetb2 received 4 files in 23.858006000519s
+multi_clinetb2 received 4 files in 21.644674062729s
+multi_clinetb2 received 4 files in 24.032336950302s
+multi_clinetb2 received 4 files in 23.044803142548s
+multi_clinetb2| Files transfered: 20	 Total time taken: 113.64109230042
+Higher time taken: 24.032336950302	 Average time taken: 5.6820546150208
+multi_clinetb4 received 4 files in 21.565698862076s
+multi_clinetb4 received 4 files in 23.79521894455s
+multi_clinetb4 received 4 files in 21.684348106384s
+multi_clinetb4 received 4 files in 24.042127847672s
+multi_clinetb4 received 4 files in 23.040576934814s
+multi_clinetb4| Files transfered: 20	 Total time taken: 114.1279706955
+Higher time taken: 24.042127847672	 Average time taken: 5.7063985347748
+multi_clinetb5 received 4 files in 22.059600114822s
+multi_clinetb5 received 4 files in 23.759184122086s
+multi_clinetb5 received 4 files in 21.699275970459s
+multi_clinetb5 received 4 files in 24.186600923538s
+multi_clinetb5 received 4 files in 22.924448013306s
+multi_clinetb5| Files transfered: 20	 Total time taken: 114.62910914421
+Higher time taken: 24.186600923538	 Average time taken: 5.7314554572105
