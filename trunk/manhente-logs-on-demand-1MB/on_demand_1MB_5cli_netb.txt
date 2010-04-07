@@ -1,0 +1,14 @@
+multi_clinetb1 received 4 files in 6.6325538158417s
+multi_clinetb1 received 4 files in 7.0532219409943s
+multi_clinetb1 received 4 files in 5.8481249809265s
+multi_clinetb1 received 4 files in 6.0419309139252s
+multi_clinetb1 received 4 files in 5.5415508747101s
+multi_clinetb1| Files transfered: 20	 Total time taken: 31.117382526398
+Higher time taken: 7.0532219409943	 Average time taken: 1.5558691263199
+multi_clinetb2 received 4 files in 7.045480966568s
+multi_clinetb2 received 4 files in 5.7627980709076s
+multi_clinetb2 received 4 files in 8.3829929828644s
+multi_clinetb2 received 4 files in 6.1434290409088s
+multi_clinetb2 received 4 files in 6.3148241043091s
+multi_clinetb2| Files transfered: 20	 Total time taken: 33.649525165558
+Higher time taken: 8.3829929828644	 Average time taken: 1.6824762582779
