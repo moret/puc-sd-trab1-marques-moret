@@ -1,0 +1,21 @@
+multi_clidtop2 received 4 files in 7.9137449264526s
+multi_clidtop2 received 4 files in 11.220911979675s
+multi_clidtop2 received 4 files in 13.799294948578s
+multi_clidtop2 received 4 files in 4.5196239948273s
+multi_clidtop2 received 4 files in 4.0011019706726s
+multi_clidtop2| Files transfered: 20	 Total time taken: 41.454677820206
+Higher time taken: 13.799294948578	 Average time taken: 2.0727338910103
+multi_clidtop1 received 4 files in 13.303606033325s
+multi_clidtop1 received 4 files in 16.665196895599s
+multi_clidtop1 received 4 files in 4.8114531040192s
+multi_clidtop1 received 4 files in 4.1403119564056s
+multi_clidtop1 received 4 files in 3.1904220581055s
+multi_clidtop1| Files transfered: 20	 Total time taken: 42.110990047455
+Higher time taken: 16.665196895599	 Average time taken: 2.1055495023727
+multi_clidtop3 received 4 files in 14.980277061462s
+multi_clidtop3 received 4 files in 28.84157705307s
+multi_clidtop3 received 4 files in 2.0106558799744s
+multi_clidtop3 received 4 files in 1.9726300239563s
+multi_clidtop3 received 4 files in 1.9597151279449s
+multi_clidtop3| Files transfered: 20	 Total time taken: 49.764855146408
+Higher time taken: 28.84157705307	 Average time taken: 2.4882427573204
