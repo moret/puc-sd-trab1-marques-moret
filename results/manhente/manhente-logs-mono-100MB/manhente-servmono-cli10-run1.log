@@ -1,0 +1,70 @@
+multi_clinetb2 received 4 files in 913.37820696831s
+multi_clinetb2 received 4 files in 1102.0484189987s
+multi_clinetb2 received 4 files in 1106.241453886s
+multi_clinetb2 received 4 files in 1127.8361771107s
+multi_clinetb2 received 4 files in 1148.7532601357s
+multi_clinetb2| Files transfered: 20	 Total time taken: 5398.2575170994
+Higher time taken: 1148.7532601357	 Average time taken: 269.91287585497
+multi_clinetb5 received 4 files in 959.1153151989s
+multi_clinetb5 received 4 files in 1101.8548939228s
+multi_clinetb5 received 4 files in 1103.806470871s
+multi_clinetb5 received 4 files in 1129.8354079723s
+multi_clinetb5 received 4 files in 1151.6965041161s
+multi_clinetb5| Files transfered: 20	 Total time taken: 5446.3085920811
+Higher time taken: 1151.6965041161	 Average time taken: 272.31542960405
+multi_clinetb4 received 4 files in 1002.4802060127s
+multi_clinetb4 received 4 files in 1102.0364089012s
+multi_clinetb4 received 4 files in 1103.4710888863s
+multi_clinetb4 received 4 files in 1135.3367578983s
+multi_clinetb4 received 4 files in 1147.2385869026s
+multi_clinetb4| Files transfered: 20	 Total time taken: 5490.5630486012
+Higher time taken: 1147.2385869026	 Average time taken: 274.52815243006
+multi_clinetb1 received 4 files in 1067.7125270367s
+multi_clinetb1 received 4 files in 1103.7693638802s
+multi_clinetb1 received 4 files in 1101.8115890026s
+multi_clinetb1 received 4 files in 1135.7143349648s
+multi_clinetb1 received 4 files in 1149.1193220615s
+multi_clinetb1| Files transfered: 20	 Total time taken: 5558.1271369457
+Higher time taken: 1149.1193220615	 Average time taken: 277.90635684729
+multi_clinetb3 received 4 files in 1112.3453259468s
+multi_clinetb3 received 4 files in 1102.4075620174s
+multi_clinetb3 received 4 files in 1101.4810259342s
+multi_clinetb3 received 4 files in 1138.0355660915s
+multi_clinetb3 received 4 files in 1149.1551260948s
+multi_clinetb3| Files transfered: 20	 Total time taken: 5603.4246060848
+Higher time taken: 1149.1551260948	 Average time taken: 280.17123030424
+multi_clidtop4 received 4 files in 848.32098889351s
+multi_clidtop4 received 4 files in 1102.5241279602s
+multi_clidtop4 received 4 files in 1104.0420329571s
+multi_clidtop4 received 4 files in 1126.8520050049s
+multi_clidtop4 received 4 files in 1146.2017591s
+multi_clidtop4| Files transfered: 20	 Total time taken: 5327.9409139156
+Higher time taken: 1146.2017591	 Average time taken: 266.39704569578
+multi_clidtop3 received 4 files in 859.32347893715s
+multi_clidtop3 received 4 files in 1102.3691701889s
+multi_clidtop3 received 4 files in 1104.1856491566s
+multi_clidtop3 received 4 files in 1126.8902568817s
+multi_clidtop3 received 4 files in 1146.1630549431s
+multi_clidtop3| Files transfered: 20	 Total time taken: 5338.9316101074
+Higher time taken: 1146.1630549431	 Average time taken: 266.94658050537
+multi_clidtop2 received 4 files in 870.32244110107s
+multi_clidtop2 received 4 files in 1102.3618280888s
+multi_clidtop2 received 4 files in 1104.1382849216s
+multi_clidtop2 received 4 files in 1126.8693621159s
+multi_clidtop2 received 4 files in 1146.2288389206s
+multi_clidtop2| Files transfered: 20	 Total time taken: 5349.9207551479
+Higher time taken: 1146.2288389206	 Average time taken: 267.4960377574
+multi_clidtop1 received 4 files in 1013.8250160217s
+multi_clidtop1 received 4 files in 1102.0914759636s
+multi_clidtop1 received 4 files in 1102.6757540703s
+multi_clidtop1 received 4 files in 1135.7304148674s
+multi_clidtop1 received 4 files in 1147.1786420345s
+multi_clidtop1| Files transfered: 20	 Total time taken: 5501.5013029575
+Higher time taken: 1147.1786420345	 Average time taken: 275.07506514788
+multi_clidtop5 received 4 files in 1024.7752239704s
+multi_clidtop5 received 4 files in 1102.0755569935s
+multi_clidtop5 received 4 files in 1102.6606040001s
+multi_clidtop5 received 4 files in 1135.7773919106s
+multi_clidtop5 received 4 files in 1147.0731699467s
+multi_clidtop5| Files transfered: 20	 Total time taken: 5512.3619468212
+Higher time taken: 1147.0731699467	 Average time taken: 275.61809734106
