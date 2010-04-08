@@ -1,0 +1,40 @@
+ ! Error - File not received. closed
+ ! Error - File not received. closed
+multi_climc2 received 4 files in 124.13778686523s
+multi_climc2 received 4 files in 168.00595498085s
+multi_climc2 received 4 files in 184.35396003723s
+multi_climc2 received 4 files in 159.23565196991s
+multi_climc2 received 4 files in 183.52696800232s
+multi_climc2| Files transfered: 20	 Total time taken: 819.26032185555
+Higher time taken: 184.35396003723	 Average time taken: 40.963016092777
+ ! Error - File not received. closed
+multi_climc3 received 4 files in 148.47065091133s
+multi_climc3 received 4 files in 178.24594187737s
+multi_climc3 received 4 files in 209.00323987007s
+multi_climc3 received 4 files in 172.06647896767s
+multi_climc3 received 4 files in 155.67751502991s
+multi_climc3| Files transfered: 20	 Total time taken: 863.46382665634
+Higher time taken: 209.00323987007	 Average time taken: 43.173191332817
+ ! Error - File not received. closed
+ ! Error - File not received. closed
+multi_climc1 received 4 files in 137.22015380859s
+multi_climc1 received 4 files in 180.41398310661s
+multi_climc1 received 4 files in 177.27294707298s
+multi_climc1 received 4 files in 192.28640389442s
+multi_climc1 received 4 files in 179.30757308006s
+multi_climc1| Files transfered: 20	 Total time taken: 866.50106096268
+Higher time taken: 192.28640389442	 Average time taken: 43.325053048134
+multi_climc5 received 4 files in 181.48217797279s
+multi_climc5 received 4 files in 182.98834109306s
+multi_climc5 received 4 files in 169.7768509388s
+multi_climc5 received 4 files in 216.73274803162s
+multi_climc5 received 4 files in 189.53812789917s
+multi_climc5| Files transfered: 20	 Total time taken: 940.51824593544
+Higher time taken: 216.73274803162	 Average time taken: 47.025912296772
+multi_climc4 received 4 files in 195.59406590462s
+multi_climc4 received 4 files in 191.44207406044s
+multi_climc4 received 4 files in 197.13999295235s
+multi_climc4 received 4 files in 187.85574197769s
+multi_climc4 received 4 files in 225.14146590233s
+multi_climc4| Files transfered: 20	 Total time taken: 997.17334079742
+Higher time taken: 225.14146590233	 Average time taken: 49.858667039871
