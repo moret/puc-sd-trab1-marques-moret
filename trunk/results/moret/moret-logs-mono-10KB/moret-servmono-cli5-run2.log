@@ -1,0 +1,35 @@
+multi_climc1 received 4 files in 0.026888847351074s
+multi_climc1 received 4 files in 0.018512964248657s
+multi_climc1 received 4 files in 0.01925802230835s
+multi_climc1 received 4 files in 0.02223801612854s
+multi_climc1 received 4 files in 0.021260023117065s
+multi_climc1| Files transfered: 20	 Total time taken: 0.10815787315369
+Higher time taken: 0.026888847351074	 Average time taken: 0.0054078936576843
+multi_climc4 received 4 files in 0.027350902557373s
+multi_climc4 received 4 files in 0.019513845443726s
+multi_climc4 received 4 files in 0.019191980361938s
+multi_climc4 received 4 files in 0.022122859954834s
+multi_climc4 received 4 files in 0.043246030807495s
+multi_climc4| Files transfered: 20	 Total time taken: 0.13142561912537
+Higher time taken: 0.043246030807495	 Average time taken: 0.0065712809562683
+multi_climc5 received 4 files in 0.025491952896118s
+multi_climc5 received 4 files in 0.018237113952637s
+multi_climc5 received 4 files in 0.019620895385742s
+multi_climc5 received 4 files in 0.022026777267456s
+multi_climc5 received 4 files in 0.046190977096558s
+multi_climc5| Files transfered: 20	 Total time taken: 0.13156771659851
+Higher time taken: 0.046190977096558	 Average time taken: 0.0065783858299255
+multi_climc2 received 4 files in 0.029942989349365s
+multi_climc2 received 4 files in 0.018554925918579s
+multi_climc2 received 4 files in 0.020240068435669s
+multi_climc2 received 4 files in 0.021262168884277s
+multi_climc2 received 4 files in 0.049782991409302s
+multi_climc2| Files transfered: 20	 Total time taken: 0.13978314399719
+Higher time taken: 0.049782991409302	 Average time taken: 0.0069891571998596
+multi_climc3 received 4 files in 0.031291007995605s
+multi_climc3 received 4 files in 0.019270896911621s
+multi_climc3 received 4 files in 0.019324064254761s
+multi_climc3 received 4 files in 0.022178888320923s
+multi_climc3 received 4 files in 0.053039073944092s
+multi_climc3| Files transfered: 20	 Total time taken: 0.145103931427
+Higher time taken: 0.053039073944092	 Average time taken: 0.0072551965713501

@@ -1,0 +1,105 @@
+multi_climc2 received 4 files in 4.3228588104248s
+multi_climc2 received 4 files in 4.7686531543732s
+multi_climc2 received 4 files in 4.6884920597076s
+multi_climc2 received 4 files in 4.633241891861s
+multi_climc2 received 4 files in 4.653126001358s
+multi_climc2| Files transfered: 20	 Total time taken: 23.066371917725
+Higher time taken: 4.7686531543732	 Average time taken: 1.1533185958862
+multi_climc3 received 4 files in 4.4013512134552s
+multi_climc3 received 4 files in 4.7701439857483s
+multi_climc3 received 4 files in 4.6831111907959s
+multi_climc3 received 4 files in 4.6356561183929s
+multi_climc3 received 4 files in 4.6567449569702s
+multi_climc3| Files transfered: 20	 Total time taken: 23.147007465363
+Higher time taken: 4.7701439857483	 Average time taken: 1.1573503732681
+multi_climc4 received 4 files in 4.4775660037994s
+multi_climc4 received 4 files in 4.7707350254059s
+multi_climc4 received 4 files in 4.6689810752869s
+multi_climc4 received 4 files in 4.6499869823456s
+multi_climc4 received 4 files in 4.6604661941528s
+multi_climc4| Files transfered: 20	 Total time taken: 23.227735280991
+Higher time taken: 4.7707350254059	 Average time taken: 1.1613867640495
+multi_climc1 received 4 files in 4.5545871257782s
+multi_climc1 received 4 files in 4.7628018856049s
+multi_climc1 received 4 files in 4.6764261722565s
+multi_climc1 received 4 files in 4.6497640609741s
+multi_climc1 received 4 files in 4.6631050109863s
+multi_climc1| Files transfered: 20	 Total time taken: 23.3066842556
+Higher time taken: 4.7628018856049	 Average time taken: 1.16533421278
+multi_climc8 received 4 files in 4.653706073761s
+multi_climc8 received 4 files in 4.7496998310089s
+multi_climc8 received 4 files in 4.6759719848633s
+multi_climc8 received 4 files in 4.6491069793701s
+multi_climc8 received 4 files in 4.765340089798s
+multi_climc8| Files transfered: 20	 Total time taken: 23.493824958801
+Higher time taken: 4.765340089798	 Average time taken: 1.1746912479401
+multi_climc5 received 4 files in 4.7250070571899s
+multi_climc5 received 4 files in 4.7530429363251s
+multi_climc5 received 4 files in 4.6842949390411s
+multi_climc5 received 4 files in 4.6335918903351s
+multi_climc5 received 4 files in 4.7771620750427s
+multi_climc5| Files transfered: 20	 Total time taken: 23.573098897934
+Higher time taken: 4.7771620750427	 Average time taken: 1.1786549448967
+multi_climc10 received 4 files in 4.7946951389313s
+multi_climc10 received 4 files in 4.7551128864288s
+multi_climc10 received 4 files in 4.6811311244965s
+multi_climc10 received 4 files in 4.6354129314423s
+multi_climc10 received 4 files in 4.7791740894318s
+multi_climc10| Files transfered: 20	 Total time taken: 23.645526170731
+Higher time taken: 4.7946951389313	 Average time taken: 1.1822763085365
+multi_climc13 received 4 files in 4.8541948795319s
+multi_climc13 received 4 files in 4.7575469017029s
+multi_climc13 received 4 files in 4.6777908802032s
+multi_climc13 received 4 files in 4.6408400535583s
+multi_climc13 received 4 files in 4.7848210334778s
+multi_climc13| Files transfered: 20	 Total time taken: 23.715193748474
+Higher time taken: 4.8541948795319	 Average time taken: 1.1857596874237
+multi_climc14 received 4 files in 4.9300231933594s
+multi_climc14 received 4 files in 4.7613139152527s
+multi_climc14 received 4 files in 4.6688959598541s
+multi_climc14 received 4 files in 4.6359670162201s
+multi_climc14 received 4 files in 4.7946310043335s
+multi_climc14| Files transfered: 20	 Total time taken: 23.79083108902
+Higher time taken: 4.9300231933594	 Average time taken: 1.189541554451
+multi_climc15 received 4 files in 5.0016322135925s
+multi_climc15 received 4 files in 4.7658150196075s
+multi_climc15 received 4 files in 4.665107011795s
+multi_climc15 received 4 files in 4.6453559398651s
+multi_climc15 received 4 files in 4.7850320339203s
+multi_climc15| Files transfered: 20	 Total time taken: 23.862942218781
+Higher time taken: 5.0016322135925	 Average time taken: 1.193147110939
+multi_climc6 received 4 files in 5.0692369937897s
+multi_climc6 received 4 files in 4.7673540115356s
+multi_climc6 received 4 files in 4.6635730266571s
+multi_climc6 received 4 files in 4.6485130786896s
+multi_climc6 received 4 files in 4.7869329452515s
+multi_climc6| Files transfered: 20	 Total time taken: 23.935610055923
+Higher time taken: 5.0692369937897	 Average time taken: 1.1967805027962
+multi_climc7 received 4 files in 5.1394410133362s
+multi_climc7 received 4 files in 4.7622399330139s
+multi_climc7 received 4 files in 4.6694800853729s
+multi_climc7 received 4 files in 4.6500730514526s
+multi_climc7 received 4 files in 4.7801010608673s
+multi_climc7| Files transfered: 20	 Total time taken: 24.001335144043
+Higher time taken: 5.1394410133362	 Average time taken: 1.2000667572021
+multi_climc9 received 4 files in 5.2070698738098s
+multi_climc9 received 4 files in 4.7656450271606s
+multi_climc9 received 4 files in 4.6676230430603s
+multi_climc9 received 4 files in 4.6497800350189s
+multi_climc9 received 4 files in 4.782487154007s
+multi_climc9| Files transfered: 20	 Total time taken: 24.072605133057
+Higher time taken: 5.2070698738098	 Average time taken: 1.2036302566528
+multi_climc12 received 4 files in 5.277822971344s
+multi_climc12 received 4 files in 4.7611889839172s
+multi_climc12 received 4 files in 4.6707229614258s
+multi_climc12 received 4 files in 4.6527280807495s
+multi_climc12 received 4 files in 4.7793409824371s
+multi_climc12| Files transfered: 20	 Total time taken: 24.141803979874
+Higher time taken: 5.277822971344	 Average time taken: 1.2070901989937
+multi_climc11 received 4 files in 5.4053359031677s
+multi_climc11 received 4 files in 4.7626349925995s
+multi_climc11 received 4 files in 4.6638600826263s
+multi_climc11 received 4 files in 4.648129940033s
+multi_climc11 received 4 files in 4.7839789390564s
+multi_climc11| Files transfered: 20	 Total time taken: 24.263939857483
+Higher time taken: 5.4053359031677	 Average time taken: 1.2131969928741
