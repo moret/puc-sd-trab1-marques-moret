@@ -1,0 +1,658 @@
+-- Initial parameters --
+-- End of Initial parameters --
+-- Initial parameters --
+-- End of Initial parameters --
+[1270739939.9079] multi_clinetb1: Starting connection.
+[1270739941.5759] multi_clinetb1: Connection stabilished. (elapsed time: 1.6680128574371)
+[1270739941.5761] multi_clinetb1: Starting file receival.
+[1270740312.9148] multi_clinetb1: File receival complete. (elapsed time: 371.3387567997)
+[1270740312.9148] multi_clinetb1: Total time taken by client. (elapsed time: 373.00688385963)
+[1270740312.9151] multi_clinetb1: Starting connection.
+[1270740313.3919] multi_clinetb1: Connection stabilished. (elapsed time: 0.47685885429382)
+[1270740313.4113] multi_clinetb1: Starting file receival.
+[1270740651.824] multi_clinetb1: File receival complete. (elapsed time: 338.41269898415)
+[1270740651.824] multi_clinetb1: Total time taken by client. (elapsed time: 338.90895295143)
+[1270740651.8243] multi_clinetb1: Starting connection.
+[1270740652.253] multi_clinetb1: Connection stabilished. (elapsed time: 0.42866802215576)
+[1270740652.2708] multi_clinetb1: Starting file receival.
+[1270740754.7981] multi_clinetb1: File receival complete. (elapsed time: 102.52729511261)
+[1270740754.7981] multi_clinetb1: Total time taken by client. (elapsed time: 102.97381305695)
+[1270740754.7984] multi_clinetb1: Starting connection.
+[1270740754.836] multi_clinetb1: Connection stabilished. (elapsed time: 0.037603139877319)
+[1270740754.845] multi_clinetb1: Starting file receival.
+[1270740842.28] multi_clinetb1: File receival complete. (elapsed time: 87.435015916824)
+[1270740842.28] multi_clinetb1: Total time taken by client. (elapsed time: 87.481641054153)
+multi_clinetb1 received 4 files in 902.37262701988s
+[1270740842.3158] multi_clinetb1: Starting connection.
+[1270740842.3268] multi_clinetb1: Connection stabilished. (elapsed time: 0.011055946350098)
+[1270740842.3269] multi_clinetb1: Starting file receival.
+[1270740924.1749] multi_clinetb1: File receival complete. (elapsed time: 81.847944974899)
+[1270740924.1749] multi_clinetb1: Total time taken by client. (elapsed time: 81.859079122543)
+[1270740924.1751] multi_clinetb1: Starting connection.
+[1270740924.2481] multi_clinetb1: Connection stabilished. (elapsed time: 0.073039054870605)
+[1270740924.2726] multi_clinetb1: Starting file receival.
+[1270741002.9293] multi_clinetb1: File receival complete. (elapsed time: 78.656692028046)
+[1270741002.9293] multi_clinetb1: Total time taken by client. (elapsed time: 78.754199028015)
+[1270741002.9302] multi_clinetb1: Starting connection.
+[1270741003.0093] multi_clinetb1: Connection stabilished. (elapsed time: 0.079084873199463)
+[1270741003.0312] multi_clinetb1: Starting file receival.
+[1270741091.366] multi_clinetb1: File receival complete. (elapsed time: 88.334851980209)
+[1270741091.366] multi_clinetb1: Total time taken by client. (elapsed time: 88.43581700325)
+[1270741091.3667] multi_clinetb1: Starting connection.
+[1270741091.4463] multi_clinetb1: Connection stabilished. (elapsed time: 0.079662084579468)
+[1270741091.466] multi_clinetb1: Starting file receival.
+[1270741171.1195] multi_clinetb1: File receival complete. (elapsed time: 79.653464794159)
+[1270741171.1195] multi_clinetb1: Total time taken by client. (elapsed time: 79.752774000168)
+multi_clinetb1 received 4 files in 328.8303501606s
+[1270741171.1617] multi_clinetb1: Starting connection.
+[1270741171.1903] multi_clinetb1: Connection stabilished. (elapsed time: 0.028633117675781)
+[1270741171.1904] multi_clinetb1: Starting file receival.
+[1270741259.1951] multi_clinetb1: File receival complete. (elapsed time: 88.004708051682)
+[1270741259.1951] multi_clinetb1: Total time taken by client. (elapsed time: 88.033411026001)
+[1270741259.1954] multi_clinetb1: Starting connection.
+[1270741259.2807] multi_clinetb1: Connection stabilished. (elapsed time: 0.085368871688843)
+[1270741259.2967] multi_clinetb1: Starting file receival.
+[1270741341.1961] multi_clinetb1: File receival complete. (elapsed time: 81.899372816086)
+[1270741341.1961] multi_clinetb1: Total time taken by client. (elapsed time: 82.000723838806)
+[1270741341.1963] multi_clinetb1: Starting connection.
+[12707413-- Initial parameters --
+-- End of Initial parameters --
+[1270739939.9106] multi_clinetb2: Starting connection.
+[1270739941.5758] multi_clinetb2: Connection stabilished. (elapsed time: 1.6651680469513)
+[1270739941.576] multi_clinetb2: Starting file receival.
+[1270740292.1891] multi_clinetb2: File receival complete. (elapsed time: 350.61311006546)
+[1270740292.1891] multi_clinetb2: Total time taken by client. (elapsed time: 352.27844405174)
+[1270740292.1893] multi_clinetb2: Starting connection.
+[1270740292.494] multi_clinetb2: Connection stabilished. (elapsed time: 0.30472207069397)
+[1270740292.5032] multi_clinetb2: Starting file receival.
+[1270740636.5744] multi_clinetb2: File receival complete. (elapsed time: 344.07118606567)
+[1270740636.5744] multi_clinetb2: Total time taken by client. (elapsed time: 344.38504099846)
+[1270740636.5746] multi_clinetb2: Starting connection.
+[1270740636.7247] multi_clinetb2: Connection stabilished. (elapsed time: 0.15008306503296)
+[1270740636.7427] multi_clinetb2: Starting file receival.
+[1270740751.5068] multi_clinetb2: File receival complete. (elapsed time: 114.76415705681)
+[1270740751.5068] multi_clinetb2: Total time taken by client. (elapsed time: 114.93219995499)
+[1270740751.5073] multi_clinetb2: Starting connection.
+[1270740751.58] multi_clinetb2: Connection stabilished. (elapsed time: 0.072683811187744)
+[1270740751.5956] multi_clinetb2: Starting file receival.
+[1270740839.944] multi_clinetb2: File receival complete. (elapsed time: 88.348363876343)
+[1270740839.944] multi_clinetb2: Total time taken by client. (elapsed time: 88.436721801758)
+multi_clinetb2 received 4 files in 900.03371596336s
+[1270740840] multi_clinetb2: Starting connection.
+[1270740840.032] multi_clinetb2: Connection stabilished. (elapsed time: 0.032006978988647)
+[1270740840.032] multi_clinetb2: Starting file receival.
+[1270740928.9097] multi_clinetb2: File receival complete. (elapsed time: 88.877681970596)
+[1270740928.9097] multi_clinetb2: Total time taken by client. (elapsed time: 88.909749984741)
+[1270740928.91] multi_clinetb2: Starting connection.
+[1270740928.9824] multi_clinetb2: Connection stabilished. (elapsed time: 0.072448015213013)
+[1270740929.0017] multi_clinetb2: Starting file receival.
+[1270741022.9481] multi_clinetb2: File receival complete. (elapsed time: 93.946463823318)
+[1270741022.9481] multi_clinetb2: Total time taken by client. (elapsed time: 94.038151979446)
+[1270741022.9484] multi_clinetb2: Starting connection.
+[1270741023.0202] multi_clinetb2: Connection stabilished. (elapsed time: 0.071866035461426)
+[1270741023.0361] multi_clinetb2: Starting file receival.
+[1270741106.9856] multi_clinetb2: File receival complete. (elapsed time: 83.949471950531)
+[1270741106.9856] multi_clinetb2: Total time taken by client. (elapsed time: 84.037198066711)
+[1270741106.986] multi_clinetb2: Starting connection.
+[1270741107.0568] multi_clinetb2: Connection stabilished. (elapsed time: 0.070823907852173)
+[1270741107.0673] multi_clinetb2: Starting file receival.
+[1270741199.665] multi_clinetb2: File receival complete. (elapsed time: 92.597724914551)
+[1270741199.665] multi_clinetb2: Total time taken by client. (elapsed time: 92.679024934769)
+multi_clinetb2 received 4 files in 359.70617103577s
+[1270741199.7198] multi_clinetb2: Starting connection.
+[1270741199.7588] multi_clinetb2: Connection stabilished. (elapsed time: 0.038959980010986)
+[1270741199.7589] multi_clinetb2: Starting file receival.
+[1270741289.5203] multi_clinetb2: File receival complete. (elapsed time: 89.76137804985)
+[1270741289.5203] multi_clinetb2: Total time taken by client. (elapsed time: 89.800424098969)
+[1270741289.5205] multi_clinetb2: Starting connection.
+[1270741289.601] multi_clinetb2: Connection stabilished. (elapsed time: 0.080466985702515)
+[1270741289.6209] multi_clinetb2: Starting file receival.
+[1270741385.272] multi_clinetb2: File receival complete. (elapsed time: 95.651100873947)
+[1270741385.272] multi_clinetb2: Total time taken by client. (elapsed time: 95.751510858536)
+[1270741385.2722] multi_clinetb2: Starting connection.
+[1270741385.357441.2798] multi_clinetb1: Connection stabilished. (elapsed time: 0.083514213562012)
+[1270741341.2941] multi_clinetb1: Starting file receival.
+[1270741418.6836] multi_clinetb1: File receival complete. (elapsed time: 77.389560937881)
+[1270741418.6836] multi_clinetb1: Total time taken by client. (elapsed time: 77.487327098846)
+[1270741418.6841] multi_clinetb1: Starting connection.
+[1270741418.7662] multi_clinetb1: Connection stabilished. (elapsed time: 0.082073926925659)
+[1270741418.7838] multi_clinetb1: Starting file receival.
+[1270741498.0811] multi_clinetb1: File receival complete. (elapsed time: 79.297338962555)
+[1270741498.0811] multi_clinetb1: Total time taken by client. (elapsed time: 79.396977901459)
+multi_clinetb1 received 4 files in 326.95140600204s
+[1270741498.1315] multi_clinetb1: Starting connection.
+[1270741498.1628] multi_clinetb1: Connection stabilished. (elapsed time: 0.031332969665527)
+[1270741498.1629] multi_clinetb1: Starting file receival.
+[1270741586.3571] multi_clinetb1: File receival complete. (elapsed time: 88.19417309761)
+[1270741586.3571] multi_clinetb1: Total time taken by client. (elapsed time: 88.225578069687)
+[1270741586.3573] multi_clinetb1: Starting connection.
+[1270741595.4336] multi_clinetb1: Connection stabilished. (elapsed time: 9.076210975647)
+[1270741595.4564] multi_clinetb1: Starting file receival.
+[1270741683.9494] multi_clinetb1: File receival complete. (elapsed time: 88.492958068848)
+[1270741683.9494] multi_clinetb1: Total time taken by client. (elapsed time: 97.592052936554)
+[1270741683.9496] multi_clinetb1: Starting connection.
+[1270741684.0348] multi_clinetb1: Connection stabilished. (elapsed time: 0.085138082504272)
+[1270741684.0573] multi_clinetb1: Starting file receival.
+[1270741761.4745] multi_clinetb1: File receival complete. (elapsed time: 77.417173862457)
+[1270741761.4745] multi_clinetb1: Total time taken by client. (elapsed time: 77.524868965149)
+[1270741761.4747] multi_clinetb1: Starting connection.
+[1270741761.5379] multi_clinetb1: Connection stabilished. (elapsed time: 0.063129186630249)
+[1270741761.5487] multi_clinetb1: Starting file receival.
+[1270741846.258] multi_clinetb1: File receival complete. (elapsed time: 84.709276914597)
+[1270741846.258] multi_clinetb1: Total time taken by client. (elapsed time: 84.783241033554)
+multi_clinetb1 received 4 files in 348.16243386269s
+[1270741846.3189] multi_clinetb1: Starting connection.
+[1270741846.3611] multi_clinetb1: Connection stabilished. (elapsed time: 0.042270183563232)
+[1270741846.3612] multi_clinetb1: Starting file receival.
+[1270741934.5837] multi_clinetb1: File receival complete. (elapsed time: 88.22247004509)
+[1270741934.5837] multi_clinetb1: Total time taken by client. (elapsed time: 88.264810085297)
+[1270741934.584] multi_clinetb1: Starting connection.
+[1270741934.6705] multi_clinetb1: Connection stabilished. (elapsed time: 0.086549997329712)
+[1270741934.6868] multi_clinetb1: Starting file receival.
+[1270742028.7356] multi_clinetb1: File receival complete. (elapsed time: 94.048847913742)
+[1270742028.7356] multi_clinetb1: Total time taken by client. (elapsed time: 94.151666879654)
+[1270742028.7359] multi_clinetb1: Starting connection.
+[1270742028.8009] multi_clinetb1: Connection stabilished. (elapsed time: 0.064996004104614)
+[1270742028.8233] multi_clinetb1: Starting file receival.
+[1270742116.7597] multi_clinetb1: File receival complete. (elapsed time: 87.936367034912)
+[1270742116.7597] multi_clinetb1: Total time taken by client. (elapsed time: 88.023824930191)
+[1270742116.76] multi_clinetb1: Starting connection.
+[1270742116.8359] multi_clinetb1: Connection stabilished. (elapsed time: 0.075878143310547)
+[1270742116.8505] multi_clinetb1: Starting file receival.
+[1270742194.7075] multi_clinetb1: File receival complete. (elapsed time: 77.856938838959)
+[1270742194.7075] multi_clinetb1: Total time taken by client. (elapsed time: 77.947463035583)
+multi_clinetb1 received 4 files in 348.43404483795s
+multi_clinetb1| Files transfered: 20	 Total time taken: 2254.7508618832
+Higher time taken: 902.37262701988	 Average time taken: 112.73754309416
+] multi_clinetb2: Connection stabilished. (elapsed time: 0.08515191078186)
+[1270741385.3735] multi_clinetb2: Starting file receival.
+[1270741477.6352] multi_clinetb2: File receival complete. (elapsed time: 92.261667013168)
+[1270741477.6352] multi_clinetb2: Total time taken by client. (elapsed time: 92.362958908081)
+[1270741477.6357] multi_clinetb2: Starting connection.
+[1270741477.7222] multi_clinetb2: Connection stabilished. (elapsed time: 0.086457014083862)
+[1270741477.7394] multi_clinetb2: Starting file receival.
+[1270741562.8829] multi_clinetb2: File receival complete. (elapsed time: 85.143491029739)
+[1270741562.8829] multi_clinetb2: Total time taken by client. (elapsed time: 85.247158050537)
+multi_clinetb2 received 4 files in 363.20409107208s
+[1270741562.9412] multi_clinetb2: Starting connection.
+[1270741562.9743] multi_clinetb2: Connection stabilished. (elapsed time: 0.033058881759644)
+[1270741562.9744] multi_clinetb2: Starting file receival.
+[1270741633.6351] multi_clinetb2: File receival complete. (elapsed time: 70.660709142685)
+[1270741633.6351] multi_clinetb2: Total time taken by client. (elapsed time: 70.693851947784)
+[1270741633.6355] multi_clinetb2: Starting connection.
+[1270741633.7154] multi_clinetb2: Connection stabilished. (elapsed time: 0.079860925674438)
+[1270741633.7346] multi_clinetb2: Starting file receival.
+[1270741724.6178] multi_clinetb2: File receival complete. (elapsed time: 90.883123874664)
+[1270741724.6178] multi_clinetb2: Total time taken by client. (elapsed time: 90.982239961624)
+[1270741724.618] multi_clinetb2: Starting connection.
+[1270741724.7026] multi_clinetb2: Connection stabilished. (elapsed time: 0.084579944610596)
+[1270741724.7199] multi_clinetb2: Starting file receival.
+[1270741815.4889] multi_clinetb2: File receival complete. (elapsed time: 90.769021987915)
+[1270741815.4889] multi_clinetb2: Total time taken by client. (elapsed time: 90.87092089653)
+[1270741815.4894] multi_clinetb2: Starting connection.
+[1270741818.5743] multi_clinetb2: Connection stabilished. (elapsed time: 3.0849180221558)
+[1270741818.5901] multi_clinetb2: Starting file receival.
+[1270741906.1622] multi_clinetb2: File receival complete. (elapsed time: 87.572155952454)
+[1270741906.1622] multi_clinetb2: Total time taken by client. (elapsed time: 90.672825098038)
+multi_clinetb2 received 4 files in 343.26582098007s
+[1270741906.2156] multi_clinetb2: Starting connection.
+[1270741906.2455] multi_clinetb2: Connection stabilished. (elapsed time: 0.029984951019287)
+[1270741906.2458] multi_clinetb2: Starting file receival.
+[1270741980.4743] multi_clinetb2: File receival complete. (elapsed time: 74.228500843048)
+[1270741980.4743] multi_clinetb2: Total time taken by client. (elapsed time: 74.258785963058)
+[1270741980.4746] multi_clinetb2: Starting connection.
+[1270741983.5553] multi_clinetb2: Connection stabilished. (elapsed time: 3.0807330608368)
+[1270741983.5832] multi_clinetb2: Starting file receival.
+[1270742062.0293] multi_clinetb2: File receival complete. (elapsed time: 78.446101903915)
+[1270742062.0293] multi_clinetb2: Total time taken by client. (elapsed time: 81.554728984833)
+[1270742062.0296] multi_clinetb2: Starting connection.
+[1270742062.0915] multi_clinetb2: Connection stabilished. (elapsed time: 0.061889171600342)
+[1270742062.1113] multi_clinetb2: Starting file receival.
+[1270742147.8592] multi_clinetb2: File receival complete. (elapsed time: 85.74788403511)
+[1270742147.8592] multi_clinetb2: Total time taken by client. (elapsed time: 85.829567193985)
+[1270742147.8597] multi_clinetb2: Starting connection.
+[1270742150.9595] multi_clinetb2: Connection stabilished. (elapsed time: 3.0998170375824)
+[1270742150.9962] multi_clinetb2: Starting file receival.
+[1270742217.6891] multi_clinetb2: File receival complete. (elapsed time: 66.692962169647)
+[1270742217.6891] multi_clinetb2: Total time taken by client. (elapsed time: 69.829450130463)
+multi_clinetb2 received 4 files in 311.51120615005s
+multi_clinetb2| Files transfered: 20	 Total time taken: 2277.7210052013
+Higher time taken: 900.03371596336	 Average time taken: 113.88605026007
+-- Initial parameters --
+-- End of Initial parameters --
+-- Initial parameters --
+-- End of Initial parameters --
+[1270739915.6549] multi_clidtop3: Starting connection.
+[1270739915.6553] multi_clidtop3: Connection stabilished. (elapsed time: 0.00040912628173828)
+[1270739915.6553] multi_clidtop3: Starting file receival.
+[1270739943.7302] multi_clidtop3: File receival complete. (elapsed time: 28.074868917465)
+[1270739943.7302] multi_clidtop3: Total time taken by client. (elapsed time: 28.075294971466)
+[1270739943.7303] multi_clidtop3: Starting connection.
+[1270739944.3873] multi_clidtop3: Connection stabilished. (elapsed time: 0.65702390670776)
+[1270739944.3934] multi_clidtop3: Starting file receival.
+[1270739976.5069] multi_clidtop3: File receival complete. (elapsed time: 32.113462924957)
+[1270739976.5069] multi_clidtop3: Total time taken by client. (elapsed time: 32.776589870453)
+[1270739976.507] multi_clidtop3: Starting connection.
+[1270739976.9475] multi_clidtop3: Connection stabilished. (elapsed time: 0.44050097465515)
+[1270739976.9537] multi_clidtop3: Starting file receival.
+[1270740010.8714] multi_clidtop3: File receival complete. (elapsed time: 33.917685985565)
+[1270740010.8714] multi_clidtop3: Total time taken by client. (elapsed time: 34.364324808121)
+[1270740010.8715] multi_clidtop3: Starting connection.
+[1270740011.1385] multi_clidtop3: Connection stabilished. (elapsed time: 0.26699900627136)
+[1270740011.1447] multi_clidtop3: Starting file receival.
+[1270740042.9017] multi_clidtop3: File receival complete. (elapsed time: 31.756987094879)
+[1270740042.9017] multi_clidtop3: Total time taken by client. (elapsed time: 32.030141115189)
+multi_clidtop3 received 4 files in 127.24696993828s
+[1270740042.9288] multi_clidtop3: Starting connection.
+[1270740042.99] multi_clidtop3: Connection stabilished. (elapsed time: 0.061257123947144)
+[1270740042.9901] multi_clidtop3: Starting file receival.
+[1270740080.7516] multi_clidtop3: File receival complete. (elapsed time: 37.761536836624)
+[1270740080.7516] multi_clidtop3: Total time taken by client. (elapsed time: 37.822829961777)
+[1270740080.7518] multi_clidtop3: Starting connection.
+[1270740080.8845] multi_clidtop3: Connection stabilished. (elapsed time: 0.13269710540771)
+[1270740080.8914] multi_clidtop3: Starting file receival.
+[1270740119.1519] multi_clidtop3: File receival complete. (elapsed time: 38.260448932648)
+[1270740119.1519] multi_clidtop3: Total time taken by client. (elapsed time: 38.400130987167)
+[1270740119.152] multi_clidtop3: Starting connection.
+[1270740119.3846] multi_clidtop3: Connection stabilished. (elapsed time: 0.23257899284363)
+[1270740119.3916] multi_clidtop3: Starting file receival.
+[1270740155.7887] multi_clidtop3: File receival complete. (elapsed time: 36.397149085999)
+[1270740155.7887] multi_clidtop3: Total time taken by client. (elapsed time: 36.636667013168)
+[1270740155.7888] multi_clidtop3: Starting connection.
+[1270740155.8967] multi_clidtop3: Connection stabilished. (elapsed time: 0.10784006118774)
+[1270740155.9034] multi_clidtop3: Starting file receival.
+[1270740194.1242] multi_clidtop3: File receival complete. (elapsed time: 38.2208070755)
+[1270740194.1242] multi_clidtop3: Total time taken by client. (elapsed time: 38.335354089737)
+multi_clidtop3 received 4 files in 151.21564698219s
+[1270740194.1512] multi_clidtop3: Starting connection.
+[1270740194.3596] multi_clidtop3: Connection stabilished. (elapsed time: 0.20839095115662)
+[1270740194.3596] multi_clidtop3: Starting file receival.
+[1270740230.1732] multi_clidtop3: File receival complete. (elapsed time: 35.813560962677)
+[1270740230.1732] multi_clidtop3: Total time taken by client. (elapsed time: 36.02198600769)
+[1270740230.1733] multi_clidtop3: Starting connection.
+[1270740230.2923] multi_clidtop3: Connection stabilished. (elapsed time: 0.11900997161865)
+[1270740230.2986] multi_clidtop3: Starting file receival.
+[1270740269.6372] multi_clidtop3: File receival complete. (elapsed time: 39.338593006134)
+[1270740269.6372] multi_clidtop3: Total time taken by client. (elapsed time: 39.463835954666)
+[1270740269.6373] multi_clidtop3: Starting connection.
+[12-- Initial parameters --
+-- End of Initial parameters --
+[1270739915.6529] multi_clidtop1: Starting connection.
+[1270739915.6534] multi_clidtop1: Connection stabilished. (elapsed time: 0.00052714347839355)
+[1270739915.6535] multi_clidtop1: Starting file receival.
+[1270739953.7721] multi_clidtop1: File receival complete. (elapsed time: 38.11861205101)
+[1270739953.7721] multi_clidtop1: Total time taken by client. (elapsed time: 38.119157075882)
+[1270739953.7722] multi_clidtop1: Starting connection.
+[1270739954.2189] multi_clidtop1: Connection stabilished. (elapsed time: 0.4466700553894)
+[1270739954.2252] multi_clidtop1: Starting file receival.
+[1270739983.0555] multi_clidtop1: File receival complete. (elapsed time: 28.830305099487)
+[1270739983.0555] multi_clidtop1: Total time taken by client. (elapsed time: 29.283291101456)
+[1270739983.0556] multi_clidtop1: Starting connection.
+[1270739983.3087] multi_clidtop1: Connection stabilished. (elapsed time: 0.2530779838562)
+[1270739983.3144] multi_clidtop1: Starting file receival.
+[1270740014.0131] multi_clidtop1: File receival complete. (elapsed time: 30.69864988327)
+[1270740014.0131] multi_clidtop1: Total time taken by client. (elapsed time: 30.957448005676)
+[1270740014.0132] multi_clidtop1: Starting connection.
+[1270740014.062] multi_clidtop1: Connection stabilished. (elapsed time: 0.048750162124634)
+[1270740014.0683] multi_clidtop1: Starting file receival.
+[1270740054.8444] multi_clidtop1: File receival complete. (elapsed time: 40.776083946228)
+[1270740054.8444] multi_clidtop1: Total time taken by client. (elapsed time: 40.831195116043)
+multi_clidtop1 received 4 files in 139.19167995453s
+[1270740054.8685] multi_clidtop1: Starting connection.
+[1270740055.0494] multi_clidtop1: Connection stabilished. (elapsed time: 0.18094396591187)
+[1270740055.0495] multi_clidtop1: Starting file receival.
+[1270740093.9543] multi_clidtop1: File receival complete. (elapsed time: 38.904881000519)
+[1270740093.9543] multi_clidtop1: Total time taken by client. (elapsed time: 39.085860967636)
+[1270740093.9545] multi_clidtop1: Starting connection.
+[1270740094.2851] multi_clidtop1: Connection stabilished. (elapsed time: 0.33060884475708)
+[1270740094.2917] multi_clidtop1: Starting file receival.
+[1270740130.6511] multi_clidtop1: File receival complete. (elapsed time: 36.359472990036)
+[1270740130.6511] multi_clidtop1: Total time taken by client. (elapsed time: 36.696637868881)
+[1270740130.6513] multi_clidtop1: Starting connection.
+[1270740130.874] multi_clidtop1: Connection stabilished. (elapsed time: 0.22270107269287)
+[1270740130.88] multi_clidtop1: Starting file receival.
+[1270740165.7732] multi_clidtop1: File receival complete. (elapsed time: 34.893194913864)
+[1270740165.7732] multi_clidtop1: Total time taken by client. (elapsed time: 35.121906995773)
+[1270740165.7734] multi_clidtop1: Starting connection.
+[1270740165.9722] multi_clidtop1: Connection stabilished. (elapsed time: 0.19883394241333)
+[1270740165.9787] multi_clidtop1: Starting file receival.
+[1270740202.9859] multi_clidtop1: File receival complete. (elapsed time: 37.00717997551)
+[1270740202.9859] multi_clidtop1: Total time taken by client. (elapsed time: 37.212561845779)
+multi_clidtop1 received 4 files in 148.13547897339s
+[1270740203.0136] multi_clidtop1: Starting connection.
+[1270740203.1745] multi_clidtop1: Connection stabilished. (elapsed time: 0.16086387634277)
+[1270740203.1745] multi_clidtop1: Starting file receival.
+[1270740241.3421] multi_clidtop1: File receival complete. (elapsed time: 38.16755604744)
+[1270740241.3421] multi_clidtop1: Total time taken by client. (elapsed time: 38.328455924988)
+[1270740241.3423] multi_clidtop1: Starting connection.
+[1270740241.6055] multi_clidtop1: Connection stabilished. (elapsed time: 0.26321005821228)
+[1270740241.6117] multi_clidtop1: Starting file receival.
+[1270740280.8318] multi_clidtop1: File receival complete. (elapsed time: 39.22007894516)
+[1270740280.8318] multi_clidtop1: Total time taken by client. (elapsed time: 39.489474058151)
+[1270740280.8319] multi_clidtop1: Starting connection.
+[127074-- Initial parameters --
+-- End of Initial parameters --
+[1270739915.6552] multi_clidtop2: Starting connection.
+[1270739915.6554] multi_clidtop2: Connection stabilished. (elapsed time: 0.00016999244689941)
+[1270739915.6554] multi_clidtop2: Starting file receival.
+[1270739955.2578] multi_clidtop2: File receival complete. (elapsed time: 39.602378845215)
+[1270739955.2578] multi_clidtop2: Total time taken by client. (elapsed time: 39.602567911148)
+[1270739955.2579] multi_clidtop2: Starting connection.
+[1270739955.511] multi_clidtop2: Connection stabilished. (elapsed time: 0.253084897995)
+[1270739955.5181] multi_clidtop2: Starting file receival.
+[1270739984.8497] multi_clidtop2: File receival complete. (elapsed time: 29.331619024277)
+[1270739984.8497] multi_clidtop2: Total time taken by client. (elapsed time: 29.591789960861)
+[1270739984.8498] multi_clidtop2: Starting connection.
+[1270739984.8927] multi_clidtop2: Connection stabilished. (elapsed time: 0.042901039123535)
+[1270739984.8991] multi_clidtop2: Starting file receival.
+[1270740028.9052] multi_clidtop2: File receival complete. (elapsed time: 44.006170034409)
+[1270740028.9052] multi_clidtop2: Total time taken by client. (elapsed time: 44.055419206619)
+[1270740028.9055] multi_clidtop2: Starting connection.
+[1270740029.2377] multi_clidtop2: Connection stabilished. (elapsed time: 0.33222699165344)
+[1270740029.2442] multi_clidtop2: Starting file receival.
+[1270740066.6011] multi_clidtop2: File receival complete. (elapsed time: 37.356898069382)
+[1270740066.6011] multi_clidtop2: Total time taken by client. (elapsed time: 37.695657968521)
+multi_clidtop2 received 4 files in 150.9460580349s
+[1270740066.625] multi_clidtop2: Starting connection.
+[1270740066.8948] multi_clidtop2: Connection stabilished. (elapsed time: 0.26985597610474)
+[1270740066.8949] multi_clidtop2: Starting file receival.
+[1270740101.718] multi_clidtop2: File receival complete. (elapsed time: 34.823141813278)
+[1270740101.718] multi_clidtop2: Total time taken by client. (elapsed time: 35.093020915985)
+[1270740101.7181] multi_clidtop2: Starting connection.
+[1270740101.9608] multi_clidtop2: Connection stabilished. (elapsed time: 0.24264717102051)
+[1270740101.9668] multi_clidtop2: Starting file receival.
+[1270740137.5019] multi_clidtop2: File receival complete. (elapsed time: 35.535083055496)
+[1270740137.5019] multi_clidtop2: Total time taken by client. (elapsed time: 35.78373003006)
+[1270740137.502] multi_clidtop2: Starting connection.
+[1270740137.7474] multi_clidtop2: Connection stabilished. (elapsed time: 0.24534678459167)
+[1270740137.7539] multi_clidtop2: Starting file receival.
+[1270740175.2081] multi_clidtop2: File receival complete. (elapsed time: 37.454226970673)
+[1270740175.2081] multi_clidtop2: Total time taken by client. (elapsed time: 37.706111907959)
+[1270740175.2083] multi_clidtop2: Starting connection.
+[1270740175.4253] multi_clidtop2: Connection stabilished. (elapsed time: 0.21700382232666)
+[1270740175.4316] multi_clidtop2: Starting file receival.
+[1270740212.1717] multi_clidtop2: File receival complete. (elapsed time: 36.740087032318)
+[1270740212.1717] multi_clidtop2: Total time taken by client. (elapsed time: 36.96347784996)
+multi_clidtop2 received 4 files in 145.56493592262s
+[1270740212.1999] multi_clidtop2: Starting connection.
+[1270740212.3393] multi_clidtop2: Connection stabilished. (elapsed time: 0.13940811157227)
+[1270740212.3393] multi_clidtop2: Starting file receival.
+[1270740250.3657] multi_clidtop2: File receival complete. (elapsed time: 38.026403188705)
+[1270740250.3657] multi_clidtop2: Total time taken by client. (elapsed time: 38.16584610939)
+[1270740250.3659] multi_clidtop2: Starting connection.
+[1270740250.6086] multi_clidtop2: Connection stabilished. (elapsed time: 0.24274611473083)
+[1270740250.6149] multi_clidtop2: Starting file receival.
+[1270740287.5057] multi_clidtop2: File receival complete. (elapsed time: 36.890748023987)
+[1270740287.5057] multi_clidtop2: Total time taken by client. (elapsed time: 37.139796972275)
+[1270740287.5058] multi_clidtop2: Starting connection.
+[127074-- Initial parameters --
+-- End of Initial parameters --
+[1270739915.6544] multi_clidtop4: Starting connection.
+[1270739915.655] multi_clidtop4: Connection stabilished. (elapsed time: 0.0005490779876709)
+[1270739915.655] multi_clidtop4: Starting file receival.
+[1270739955.9686] multi_clidtop4: File receival complete. (elapsed time: 40.313622951508)
+[1270739955.9686] multi_clidtop4: Total time taken by client. (elapsed time: 40.31419301033)
+[1270739955.9688] multi_clidtop4: Starting connection.
+[1270739956.0046] multi_clidtop4: Connection stabilished. (elapsed time: 0.035851001739502)
+[1270739956.0126] multi_clidtop4: Starting file receival.
+[1270740002.4395] multi_clidtop4: File receival complete. (elapsed time: 46.426926851273)
+[1270740002.4395] multi_clidtop4: Total time taken by client. (elapsed time: 46.470720052719)
+[1270740002.4396] multi_clidtop4: Starting connection.
+[1270740002.8489] multi_clidtop4: Connection stabilished. (elapsed time: 0.40930104255676)
+[1270740002.8565] multi_clidtop4: Starting file receival.
+[1270740040.9675] multi_clidtop4: File receival complete. (elapsed time: 38.110995054245)
+[1270740040.9675] multi_clidtop4: Total time taken by client. (elapsed time: 38.527875900269)
+[1270740040.9676] multi_clidtop4: Starting connection.
+[1270740041.2487] multi_clidtop4: Connection stabilished. (elapsed time: 0.28106784820557)
+[1270740041.2559] multi_clidtop4: Starting file receival.
+[1270740071.9854] multi_clidtop4: File receival complete. (elapsed time: 30.72954583168)
+[1270740071.9854] multi_clidtop4: Total time taken by client. (elapsed time: 31.017795801163)
+multi_clidtop4 received 4 files in 156.33122992516s
+[1270740072.0148] multi_clidtop4: Starting connection.
+[1270740072.2071] multi_clidtop4: Connection stabilished. (elapsed time: 0.19224905967712)
+[1270740072.2071] multi_clidtop4: Starting file receival.
+[1270740108.2969] multi_clidtop4: File receival complete. (elapsed time: 36.089822053909)
+[1270740108.2969] multi_clidtop4: Total time taken by client. (elapsed time: 36.282094955444)
+[1270740108.2971] multi_clidtop4: Starting connection.
+[1270740108.4306] multi_clidtop4: Connection stabilished. (elapsed time: 0.13350486755371)
+[1270740108.4388] multi_clidtop4: Starting file receival.
+[1270740144.9989] multi_clidtop4: File receival complete. (elapsed time: 36.560053825378)
+[1270740144.9989] multi_clidtop4: Total time taken by client. (elapsed time: 36.701805830002)
+[1270740144.999] multi_clidtop4: Starting connection.
+[1270740145.0641] multi_clidtop4: Connection stabilished. (elapsed time: 0.065057039260864)
+[1270740145.0714] multi_clidtop4: Starting file receival.
+[1270740184.2001] multi_clidtop4: File receival complete. (elapsed time: 39.128638029099)
+[1270740184.2001] multi_clidtop4: Total time taken by client. (elapsed time: 39.201066970825)
+[1270740184.2002] multi_clidtop4: Starting connection.
+[1270740184.3591] multi_clidtop4: Connection stabilished. (elapsed time: 0.15894198417664)
+[1270740184.3664] multi_clidtop4: Starting file receival.
+[1270740222.6509] multi_clidtop4: File receival complete. (elapsed time: 38.284586191177)
+[1270740222.6509] multi_clidtop4: Total time taken by client. (elapsed time: 38.450731992722)
+multi_clidtop4 received 4 files in 150.65782189369s
+[1270740222.6834] multi_clidtop4: Starting connection.
+[1270740222.8682] multi_clidtop4: Connection stabilished. (elapsed time: 0.18477010726929)
+[1270740222.8683] multi_clidtop4: Starting file receival.
+[1270740258.4187] multi_clidtop4: File receival complete. (elapsed time: 35.550446987152)
+[1270740258.4187] multi_clidtop4: Total time taken by client. (elapsed time: 35.735252141953)
+[1270740258.4188] multi_clidtop4: Starting connection.
+[1270740258.5562] multi_clidtop4: Connection stabilished. (elapsed time: 0.13738894462585)
+[1270740258.5642] multi_clidtop4: Starting file receival.
+[1270740296.5296] multi_clidtop4: File receival complete. (elapsed time: 37.965404987335)
+[1270740296.5296] multi_clidtop4: Total time taken by client. (elapsed time: 38.110746145248)
+[1270740296.5297] multi_clidtop4: Starting connection.
+[70740269.9217] multi_clidtop3: Connection stabilished. (elapsed time: 0.28438997268677)
+[1270740269.9282] multi_clidtop3: Starting file receival.
+[1270740309.9256] multi_clidtop3: File receival complete. (elapsed time: 39.997417926788)
+[1270740309.9256] multi_clidtop3: Total time taken by client. (elapsed time: 40.288290977478)
+[1270740309.9257] multi_clidtop3: Starting connection.
+[1270740310.4056] multi_clidtop3: Connection stabilished. (elapsed time: 0.47984290122986)
+[1270740310.412] multi_clidtop3: Starting file receival.
+[1270740343.6139] multi_clidtop3: File receival complete. (elapsed time: 33.201883077621)
+[1270740343.6139] multi_clidtop3: Total time taken by client. (elapsed time: 33.688117027283)
+multi_clidtop3 received 4 files in 149.48285603523s
+[1270740343.6407] multi_clidtop3: Starting connection.
+[1270740343.8566] multi_clidtop3: Connection stabilished. (elapsed time: 0.21589207649231)
+[1270740343.8567] multi_clidtop3: Starting file receival.
+[1270740379.6004] multi_clidtop3: File receival complete. (elapsed time: 35.7437479496)
+[1270740379.6004] multi_clidtop3: Total time taken by client. (elapsed time: 35.959673881531)
+[1270740379.6005] multi_clidtop3: Starting connection.
+[1270740379.6702] multi_clidtop3: Connection stabilished. (elapsed time: 0.069669961929321)
+[1270740379.6769] multi_clidtop3: Starting file receival.
+[1270740417.4691] multi_clidtop3: File receival complete. (elapsed time: 37.792197942734)
+[1270740417.4691] multi_clidtop3: Total time taken by client. (elapsed time: 37.868504047394)
+[1270740417.4692] multi_clidtop3: Starting connection.
+[1270740417.5175] multi_clidtop3: Connection stabilished. (elapsed time: 0.048287868499756)
+[1270740417.5237] multi_clidtop3: Starting file receival.
+[1270740464.284] multi_clidtop3: File receival complete. (elapsed time: 46.760265111923)
+[1270740464.284] multi_clidtop3: Total time taken by client. (elapsed time: 46.814750909805)
+[1270740464.2841] multi_clidtop3: Starting connection.
+[1270740464.7271] multi_clidtop3: Connection stabilished. (elapsed time: 0.44301295280457)
+[1270740464.7333] multi_clidtop3: Starting file receival.
+[1270740499.1837] multi_clidtop3: File receival complete. (elapsed time: 34.450423955917)
+[1270740499.1837] multi_clidtop3: Total time taken by client. (elapsed time: 34.899644851685)
+multi_clidtop3 received 4 files in 155.56328892708s
+[1270740499.2113] multi_clidtop3: Starting connection.
+[1270740499.4544] multi_clidtop3: Connection stabilished. (elapsed time: 0.24316310882568)
+[1270740499.4545] multi_clidtop3: Starting file receival.
+[1270740531.9393] multi_clidtop3: File receival complete. (elapsed time: 32.484832048416)
+[1270740531.9393] multi_clidtop3: Total time taken by client. (elapsed time: 32.728032112122)
+[1270740531.9394] multi_clidtop3: Starting connection.
+[1270740532.0688] multi_clidtop3: Connection stabilished. (elapsed time: 0.12936806678772)
+[1270740532.075] multi_clidtop3: Starting file receival.
+[1270740568.8969] multi_clidtop3: File receival complete. (elapsed time: 36.821849107742)
+[1270740568.8969] multi_clidtop3: Total time taken by client. (elapsed time: 36.957446098328)
+[1270740568.897] multi_clidtop3: Starting connection.
+[1270740568.9749] multi_clidtop3: Connection stabilished. (elapsed time: 0.077877044677734)
+[1270740568.9809] multi_clidtop3: Starting file receival.
+[1270740607.4128] multi_clidtop3: File receival complete. (elapsed time: 38.43185210228)
+[1270740607.4128] multi_clidtop3: Total time taken by client. (elapsed time: 38.515784025192)
+[1270740607.4129] multi_clidtop3: Starting connection.
+[1270740607.5566] multi_clidtop3: Connection stabilished. (elapsed time: 0.14371395111084)
+[1270740607.5632] multi_clidtop3: Starting file receival.
+[1270740646.453] multi_clidtop3: File receival complete. (elapsed time: 38.889820814133)
+[1270740646.453] multi_clidtop3: Total time taken by client. (elapsed time: 39.040130853653)
+multi_clidtop3 received 4 files in 147.26201701164s
+multi_clidtop3| Files transfered: 20	 Total time taken: 730.77077889442
+Higher time taken: 155.56328892708	 Average time taken: 36.538538944721
+0281.1202] multi_clidtop1: Connection stabilished. (elapsed time: 0.28827404975891)
+[1270740281.1265] multi_clidtop1: Starting file receival.
+[1270740320.7621] multi_clidtop1: File receival complete. (elapsed time: 39.63557100296)
+[1270740320.7621] multi_clidtop1: Total time taken by client. (elapsed time: 39.930191993713)
+[1270740320.7622] multi_clidtop1: Starting connection.
+[1270740321.0447] multi_clidtop1: Connection stabilished. (elapsed time: 0.28246808052063)
+[1270740321.0506] multi_clidtop1: Starting file receival.
+[1270740351.1254] multi_clidtop1: File receival complete. (elapsed time: 30.074809074402)
+[1270740351.1254] multi_clidtop1: Total time taken by client. (elapsed time: 30.363157987595)
+multi_clidtop1 received 4 files in 148.13271212578s
+[1270740351.1533] multi_clidtop1: Starting connection.
+[1270740351.2017] multi_clidtop1: Connection stabilished. (elapsed time: 0.048364877700806)
+[1270740351.2017] multi_clidtop1: Starting file receival.
+[1270740390.3847] multi_clidtop1: File receival complete. (elapsed time: 39.183037042618)
+[1270740390.3847] multi_clidtop1: Total time taken by client. (elapsed time: 39.231435060501)
+[1270740390.3849] multi_clidtop1: Starting connection.
+[1270740390.5457] multi_clidtop1: Connection stabilished. (elapsed time: 0.16083097457886)
+[1270740390.5519] multi_clidtop1: Starting file receival.
+[1270740437.3145] multi_clidtop1: File receival complete. (elapsed time: 46.76261806488)
+[1270740437.3145] multi_clidtop1: Total time taken by client. (elapsed time: 46.929627895355)
+[1270740437.3146] multi_clidtop1: Starting connection.
+[1270740437.7885] multi_clidtop1: Connection stabilished. (elapsed time: 0.47388887405396)
+[1270740437.7947] multi_clidtop1: Starting file receival.
+[1270740469.1927] multi_clidtop1: File receival complete. (elapsed time: 31.398009061813)
+[1270740469.1927] multi_clidtop1: Total time taken by client. (elapsed time: 31.878062963486)
+[1270740469.1929] multi_clidtop1: Starting connection.
+[1270740469.2835] multi_clidtop1: Connection stabilished. (elapsed time: 0.090613842010498)
+[1270740469.2896] multi_clidtop1: Starting file receival.
+[1270740502.8605] multi_clidtop1: File receival complete. (elapsed time: 33.570887088776)
+[1270740502.8605] multi_clidtop1: Total time taken by client. (elapsed time: 33.667598009109)
+multi_clidtop1 received 4 files in 151.72764897346s
+[1270740502.8876] multi_clidtop1: Starting connection.
+[1270740502.9317] multi_clidtop1: Connection stabilished. (elapsed time: 0.044092178344727)
+[1270740502.9317] multi_clidtop1: Starting file receival.
+[1270740541.3725] multi_clidtop1: File receival complete. (elapsed time: 38.44078207016)
+[1270740541.3725] multi_clidtop1: Total time taken by client. (elapsed time: 38.484909057617)
+[1270740541.3726] multi_clidtop1: Starting connection.
+[1270740541.4829] multi_clidtop1: Connection stabilished. (elapsed time: 0.11020684242249)
+[1270740541.4892] multi_clidtop1: Starting file receival.
+[1270740582.6051] multi_clidtop1: File receival complete. (elapsed time: 41.115947008133)
+[1270740582.6051] multi_clidtop1: Total time taken by client. (elapsed time: 41.232486009598)
+[1270740582.6053] multi_clidtop1: Starting connection.
+[1270740582.9326] multi_clidtop1: Connection stabilished. (elapsed time: 0.32726311683655)
+[1270740582.9389] multi_clidtop1: Starting file receival.
+[1270740621.1376] multi_clidtop1: File receival complete. (elapsed time: 38.198724985123)
+[1270740621.1376] multi_clidtop1: Total time taken by client. (elapsed time: 38.532323122025)
+[1270740621.1377] multi_clidtop1: Starting connection.
+[1270740621.471] multi_clidtop1: Connection stabilished. (elapsed time: 0.33323192596436)
+[1270740621.4777] multi_clidtop1: Starting file receival.
+[1270740657.3953] multi_clidtop1: File receival complete. (elapsed time: 35.917598009109)
+[1270740657.3953] multi_clidtop1: Total time taken by client. (elapsed time: 36.257517814636)
+multi_clidtop1 received 4 files in 154.52837610245s
+multi_clidtop1| Files transfered: 20	 Total time taken: 741.71589612961
+Higher time taken: 154.52837610245	 Average time taken: 37.08579480648
+1270740296.7079] multi_clidtop4: Connection stabilished. (elapsed time: 0.1781690120697)
+[1270740296.7154] multi_clidtop4: Starting file receival.
+[1270740340.4452] multi_clidtop4: File receival complete. (elapsed time: 43.729806900024)
+[1270740340.4452] multi_clidtop4: Total time taken by client. (elapsed time: 43.915490865707)
+[1270740340.4454] multi_clidtop4: Starting connection.
+[1270740340.8174] multi_clidtop4: Connection stabilished. (elapsed time: 0.37196278572083)
+[1270740340.8251] multi_clidtop4: Starting file receival.
+[1270740374.6778] multi_clidtop4: File receival complete. (elapsed time: 33.852724075317)
+[1270740374.6778] multi_clidtop4: Total time taken by client. (elapsed time: 34.232329845428)
+multi_clidtop4 received 4 files in 152.01826620102s
+[1270740374.7093] multi_clidtop4: Starting connection.
+[1270740374.9466] multi_clidtop4: Connection stabilished. (elapsed time: 0.23731899261475)
+[1270740374.9467] multi_clidtop4: Starting file receival.
+[1270740407.7909] multi_clidtop4: File receival complete. (elapsed time: 32.8442299366)
+[1270740407.7909] multi_clidtop4: Total time taken by client. (elapsed time: 33.081587076187)
+[1270740407.791] multi_clidtop4: Starting connection.
+[1270740407.875] multi_clidtop4: Connection stabilished. (elapsed time: 0.084013938903809)
+[1270740407.8831] multi_clidtop4: Starting file receival.
+[1270740445.9923] multi_clidtop4: File receival complete. (elapsed time: 38.109198093414)
+[1270740445.9923] multi_clidtop4: Total time taken by client. (elapsed time: 38.201245069504)
+[1270740445.9924] multi_clidtop4: Starting connection.
+[1270740446.0586] multi_clidtop4: Connection stabilished. (elapsed time: 0.066227912902832)
+[1270740446.0661] multi_clidtop4: Starting file receival.
+[1270740491.9957] multi_clidtop4: File receival complete. (elapsed time: 45.929631948471)
+[1270740491.9957] multi_clidtop4: Total time taken by client. (elapsed time: 46.003354787827)
+[1270740491.9959] multi_clidtop4: Starting connection.
+[1270740492.4523] multi_clidtop4: Connection stabilished. (elapsed time: 0.45641684532166)
+[1270740492.4601] multi_clidtop4: Starting file receival.
+[1270740528.9188] multi_clidtop4: File receival complete. (elapsed time: 36.458701848984)
+[1270740528.9188] multi_clidtop4: Total time taken by client. (elapsed time: 36.922865867615)
+multi_clidtop4 received 4 files in 154.23326992989s
+[1270740528.9515] multi_clidtop4: Starting connection.
+[1270740529.2203] multi_clidtop4: Connection stabilished. (elapsed time: 0.26875782012939)
+[1270740529.2203] multi_clidtop4: Starting file receival.
+[1270740562.6939] multi_clidtop4: File receival complete. (elapsed time: 33.473618984222)
+[1270740562.6939] multi_clidtop4: Total time taken by client. (elapsed time: 33.742411851883)
+[1270740562.6941] multi_clidtop4: Starting connection.
+[1270740562.9551] multi_clidtop4: Connection stabilished. (elapsed time: 0.26102995872498)
+[1270740562.9624] multi_clidtop4: Starting file receival.
+[1270740597.8621] multi_clidtop4: File receival complete. (elapsed time: 34.899692058563)
+[1270740597.8621] multi_clidtop4: Total time taken by client. (elapsed time: 35.168002128601)
+[1270740597.8622] multi_clidtop4: Starting connection.
+[1270740598.021] multi_clidtop4: Connection stabilished. (elapsed time: 0.1587598323822)
+[1270740598.0286] multi_clidtop4: Starting file receival.
+[1270740634.9196] multi_clidtop4: File receival complete. (elapsed time: 36.890950202942)
+[1270740634.9196] multi_clidtop4: Total time taken by client. (elapsed time: 37.057322978973)
+[1270740634.9197] multi_clidtop4: Starting connection.
+[1270740635.0305] multi_clidtop4: Connection stabilished. (elapsed time: 0.11075687408447)
+[1270740635.0378] multi_clidtop4: Starting file receival.
+[1270740667.9891] multi_clidtop4: File receival complete. (elapsed time: 32.951328992844)
+[1270740667.9891] multi_clidtop4: Total time taken by client. (elapsed time: 33.06939291954)
+multi_clidtop4 received 4 files in 139.06177902222s
+multi_clidtop4| Files transfered: 20	 Total time taken: 752.30236697197
+Higher time taken: 156.33122992516	 Average time taken: 37.615118348598
+0287.718] multi_clidtop2: Connection stabilished. (elapsed time: 0.21220707893372)
+[1270740287.7245] multi_clidtop2: Starting file receival.
+[1270740323.3283] multi_clidtop2: File receival complete. (elapsed time: 35.60387802124)
+[1270740323.3283] multi_clidtop2: Total time taken by client. (elapsed time: 35.822532892227)
+[1270740323.3285] multi_clidtop2: Starting connection.
+[1270740323.4238] multi_clidtop2: Connection stabilished. (elapsed time: 0.095317840576172)
+[1270740323.4303] multi_clidtop2: Starting file receival.
+[1270740366.3335] multi_clidtop2: File receival complete. (elapsed time: 42.903208971024)
+[1270740366.3335] multi_clidtop2: Total time taken by client. (elapsed time: 43.004947900772)
+multi_clidtop2 received 4 files in 154.15430784225s
+[1270740366.3579] multi_clidtop2: Starting connection.
+[1270740366.6901] multi_clidtop2: Connection stabilished. (elapsed time: 0.33222508430481)
+[1270740366.6901] multi_clidtop2: Starting file receival.
+[1270740403.5851] multi_clidtop2: File receival complete. (elapsed time: 36.89494395256)
+[1270740403.5851] multi_clidtop2: Total time taken by client. (elapsed time: 37.227192878723)
+[1270740403.5852] multi_clidtop2: Starting connection.
+[1270740403.845] multi_clidtop2: Connection stabilished. (elapsed time: 0.25979709625244)
+[1270740403.8511] multi_clidtop2: Starting file receival.
+[1270740440.4608] multi_clidtop2: File receival complete. (elapsed time: 36.609639167786)
+[1270740440.4608] multi_clidtop2: Total time taken by client. (elapsed time: 36.875593185425)
+[1270740440.4609] multi_clidtop2: Starting connection.
+[1270740440.7228] multi_clidtop2: Connection stabilished. (elapsed time: 0.26184797286987)
+[1270740440.7291] multi_clidtop2: Starting file receival.
+[1270740474.3431] multi_clidtop2: File receival complete. (elapsed time: 33.613922834396)
+[1270740474.3431] multi_clidtop2: Total time taken by client. (elapsed time: 33.882145881653)
+[1270740474.3432] multi_clidtop2: Starting connection.
+[1270740474.4019] multi_clidtop2: Connection stabilished. (elapsed time: 0.058718919754028)
+[1270740474.4086] multi_clidtop2: Starting file receival.
+[1270740516.3988] multi_clidtop2: File receival complete. (elapsed time: 41.990162134171)
+[1270740516.3988] multi_clidtop2: Total time taken by client. (elapsed time: 42.05557513237)
+multi_clidtop2 received 4 files in 150.0592110157s
+[1270740516.4255] multi_clidtop2: Starting connection.
+[1270740516.7048] multi_clidtop2: Connection stabilished. (elapsed time: 0.27926707267761)
+[1270740516.7048] multi_clidtop2: Starting file receival.
+[1270740557.7463] multi_clidtop2: File receival complete. (elapsed time: 41.041533946991)
+[1270740557.7463] multi_clidtop2: Total time taken by client. (elapsed time: 41.320837974548)
+[1270740557.7465] multi_clidtop2: Starting connection.
+[1270740558.1524] multi_clidtop2: Connection stabilished. (elapsed time: 0.40587687492371)
+[1270740558.1586] multi_clidtop2: Starting file receival.
+[1270740592.8294] multi_clidtop2: File receival complete. (elapsed time: 34.670772075653)
+[1270740592.8294] multi_clidtop2: Total time taken by client. (elapsed time: 35.082911014557)
+[1270740592.8296] multi_clidtop2: Starting connection.
+[1270740593.1152] multi_clidtop2: Connection stabilished. (elapsed time: 0.28567409515381)
+[1270740593.1218] multi_clidtop2: Starting file receival.
+[1270740628.1923] multi_clidtop2: File receival complete. (elapsed time: 35.070510864258)
+[1270740628.1923] multi_clidtop2: Total time taken by client. (elapsed time: 35.362711906433)
+[1270740628.1924] multi_clidtop2: Starting connection.
+[1270740628.4571] multi_clidtop2: Connection stabilished. (elapsed time: 0.26465892791748)
+[1270740628.4636] multi_clidtop2: Starting file receival.
+[1270740671.1803] multi_clidtop2: File receival complete. (elapsed time: 42.716693878174)
+[1270740671.1803] multi_clidtop2: Total time taken by client. (elapsed time: 42.987850904465)
+multi_clidtop2 received 4 files in 154.77514386177s
+multi_clidtop2| Files transfered: 20	 Total time taken: 755.49965667725
+Higher time taken: 154.77514386177	 Average time taken: 37.774982833862

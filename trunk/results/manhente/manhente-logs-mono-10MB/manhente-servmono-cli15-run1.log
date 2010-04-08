@@ -1,0 +1,105 @@
+multi_clinetb2 received 4 files in 132.9477930069s
+multi_clinetb2 received 4 files in 157.90810704231s
+multi_clinetb2 received 4 files in 155.68130087852s
+multi_clinetb2 received 4 files in 161.99169707298s
+multi_clinetb2 received 4 files in 155.76754808426s
+multi_clinetb2| Files transfered: 20	 Total time taken: 764.29644608498
+Higher time taken: 161.99169707298	 Average time taken: 38.214822304249
+multi_clinetb1 received 4 files in 137.30169987679s
+multi_clinetb1 received 4 files in 157.7964091301s
+multi_clinetb1 received 4 files in 156.15025210381s
+multi_clinetb1 received 4 files in 161.6183218956s
+multi_clinetb1 received 4 files in 156.1629319191s
+multi_clinetb1| Files transfered: 20	 Total time taken: 769.02961492538
+Higher time taken: 161.6183218956	 Average time taken: 38.451480746269
+multi_clinetb7 received 4 files in 141.67570614815s
+multi_clinetb7 received 4 files in 157.75097107887s
+multi_clinetb7 received 4 files in 156.21874380112s
+multi_clinetb7 received 4 files in 161.67815709114s
+multi_clinetb7 received 4 files in 155.93022584915s
+multi_clinetb7| Files transfered: 20	 Total time taken: 773.25380396843
+Higher time taken: 161.67815709114	 Average time taken: 38.662690198421
+multi_clinetb6 received 4 files in 146.0164809227s
+multi_clinetb6 received 4 files in 157.59693312645s
+multi_clinetb6 received 4 files in 156.37902712822s
+multi_clinetb6 received 4 files in 161.68010401726s
+multi_clinetb6 received 4 files in 155.88970804214s
+multi_clinetb6| Files transfered: 20	 Total time taken: 777.56225323677
+Higher time taken: 161.68010401726	 Average time taken: 38.878112661839
+multi_clinetb5 received 4 files in 150.76149916649s
+multi_clinetb5 received 4 files in 157.09290003777s
+multi_clinetb5 received 4 files in 156.74109482765s
+multi_clinetb5 received 4 files in 161.19353413582s
+multi_clinetb5 received 4 files in 156.01915597916s
+multi_clinetb5| Files transfered: 20	 Total time taken: 781.80818414688
+Higher time taken: 161.19353413582	 Average time taken: 39.090409207344
+multi_clinetb4 received 4 files in 155.17480492592s
+multi_clinetb4 received 4 files in 156.86322498322s
+multi_clinetb4 received 4 files in 157.61501193047s
+multi_clinetb4 received 4 files in 160.33127689362s
+multi_clinetb4 received 4 files in 156.14804291725s
+multi_clinetb4| Files transfered: 20	 Total time taken: 786.13236165047
+Higher time taken: 160.33127689362	 Average time taken: 39.306618082523
+multi_clinetb3 received 4 files in 161.42327094078s
+multi_clinetb3 received 4 files in 154.99597096443s
+multi_clinetb3 received 4 files in 157.58805608749s
+multi_clinetb3 received 4 files in 160.17463898659s
+multi_clinetb3 received 4 files in 156.15703701973s
+multi_clinetb3| Files transfered: 20	 Total time taken: 790.33897399902
+Higher time taken: 161.42327094078	 Average time taken: 39.516948699951
+multi_clidtop7 received 4 files in 122.04688286781s
+multi_clidtop7 received 4 files in 157.35533308983s
+multi_clidtop7 received 4 files in 156.18215894699s
+multi_clidtop7 received 4 files in 162.01313996315s
+multi_clidtop7 received 4 files in 153.81313204765s
+multi_clidtop7| Files transfered: 20	 Total time taken: 751.41064691544
+Higher time taken: 162.01313996315	 Average time taken: 37.570532345772
+multi_clidtop1 received 4 files in 123.06892704964s
+multi_clidtop1 received 4 files in 157.34959816933s
+multi_clidtop1 received 4 files in 156.17185306549s
+multi_clidtop1 received 4 files in 162.02522206306s
+multi_clidtop1 received 4 files in 153.80311107635s
+multi_clidtop1| Files transfered: 20	 Total time taken: 752.41871142387
+Higher time taken: 162.02522206306	 Average time taken: 37.620935571194
+multi_clidtop6 received 4 files in 124.07653188705s
+multi_clidtop6 received 4 files in 157.36584806442s
+multi_clidtop6 received 4 files in 156.15606498718s
+multi_clidtop6 received 4 files in 162.02217483521s
+multi_clidtop6 received 4 files in 153.8032040596s
+multi_clidtop6| Files transfered: 20	 Total time taken: 753.42382383347
+Higher time taken: 162.02217483521	 Average time taken: 37.671191191673
+multi_clidtop4 received 4 files in 125.08075809479s
+multi_clidtop4 received 4 files in 157.36285710335s
+multi_clidtop4 received 4 files in 156.15349292755s
+multi_clidtop4 received 4 files in 162.03675603867s
+multi_clidtop4 received 4 files in 153.7970969677s
+multi_clidtop4| Files transfered: 20	 Total time taken: 754.43096113205
+Higher time taken: 162.03675603867	 Average time taken: 37.721548056602
+multi_clidtop5 received 4 files in 126.07999014854s
+multi_clidtop5 received 4 files in 157.37082195282s
+multi_clidtop5 received 4 files in 156.15312600136s
+multi_clidtop5 received 4 files in 162.04275894165s
+multi_clidtop5 received 4 files in 153.78920388222s
+multi_clidtop5| Files transfered: 20	 Total time taken: 755.43590092659
+Higher time taken: 162.04275894165	 Average time taken: 37.77179504633
+multi_clidtop3 received 4 files in 127.08921003342s
+multi_clidtop3 received 4 files in 157.3642179966s
+multi_clidtop3 received 4 files in 156.16380500793s
+multi_clidtop3 received 4 files in 162.0418381691s
+multi_clidtop3 received 4 files in 153.77789211273s
+multi_clidtop3| Files transfered: 20	 Total time taken: 756.43696331978
+Higher time taken: 162.0418381691	 Average time taken: 37.821848165989
+multi_clidtop8 received 4 files in 128.09689307213s
+multi_clidtop8 received 4 files in 157.36291003227s
+multi_clidtop8 received 4 files in 156.17021584511s
+multi_clidtop8 received 4 files in 162.03247094154s
+multi_clidtop8 received 4 files in 153.77466511726s
+multi_clidtop8| Files transfered: 20	 Total time taken: 757.43715500832
+Higher time taken: 162.03247094154	 Average time taken: 37.871857750416
+multi_clidtop2 received 4 files in 129.10771179199s
+multi_clidtop2 received 4 files in 157.36752295494s
+multi_clidtop2 received 4 files in 156.18118715286s
+multi_clidtop2 received 4 files in 162.01321220398s
+multi_clidtop2 received 4 files in 153.77960014343s
+multi_clidtop2| Files transfered: 20	 Total time taken: 758.44923424721
+Higher time taken: 162.01321220398	 Average time taken: 37.92246171236

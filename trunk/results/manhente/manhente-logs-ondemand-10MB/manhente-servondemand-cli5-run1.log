@@ -1,0 +1,35 @@
+multi_clinetb1 received 4 files in 38.26179599762s
+multi_clinetb1 received 4 files in 45.089698076248s
+multi_clinetb1 received 4 files in 33.487165927887s
+multi_clinetb1 received 4 files in 33.222446918488s
+multi_clinetb1 received 4 files in 41.381196975708s
+multi_clinetb1| Files transfered: 20	 Total time taken: 191.44230389595
+Higher time taken: 45.089698076248	 Average time taken: 9.5721151947975
+multi_clinetb2 received 4 files in 49.160830974579s
+multi_clinetb2 received 4 files in 44.709538936615s
+multi_clinetb2 received 4 files in 37.722763061523s
+multi_clinetb2 received 4 files in 40.91595697403s
+multi_clinetb2 received 4 files in 30.20875787735s
+multi_clinetb2| Files transfered: 20	 Total time taken: 202.7178478241
+Higher time taken: 49.160830974579	 Average time taken: 10.135892391205
+multi_clidtop1 received 4 files in 12.315354824066s
+multi_clidtop1 received 4 files in 12.692660093307s
+multi_clidtop1 received 4 files in 12.509448051453s
+multi_clidtop1 received 4 files in 12.449126005173s
+multi_clidtop1 received 4 files in 12.079581022263s
+multi_clidtop1| Files transfered: 20	 Total time taken: 62.046169996262
+Higher time taken: 12.692660093307	 Average time taken: 3.1023084998131
+multi_clidtop2 received 4 files in 12.922678947449s
+multi_clidtop2 received 4 files in 12.793617963791s
+multi_clidtop2 received 4 files in 13.75500202179s
+multi_clidtop2 received 4 files in 12.116505861282s
+multi_clidtop2 received 4 files in 11.661949157715s
+multi_clidtop2| Files transfered: 20	 Total time taken: 63.249753952026
+Higher time taken: 13.75500202179	 Average time taken: 3.1624876976013
+multi_clidtop3 received 4 files in 13.609737873077s
+multi_clidtop3 received 4 files in 13.161677122116s
+multi_clidtop3 received 4 files in 12.490968942642s
+multi_clidtop3 received 4 files in 12.853329896927s
+multi_clidtop3 received 4 files in 11.702966928482s
+multi_clidtop3| Files transfered: 20	 Total time taken: 63.818680763245
+Higher time taken: 13.609737873077	 Average time taken: 3.1909340381622
