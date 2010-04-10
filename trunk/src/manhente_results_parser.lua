@@ -41,11 +41,11 @@ for sn, server in ipairs(servers) do
 		for cn, client in ipairs(clients) do
 			for rn, run in ipairs(runs) do
 				if server == "pre5" or server == "pre10" then
-					fn = "manhente-servpre-cli" .. client .. "-run" .. run .. ".txt"
+					fn = "manhente-servpre-cli" .. client .. "-run" .. run .. ".log"
 					--print(folder .. fn)
 					io.write(calculate_mean_time(folder .. fn, current_sheet) .. " \t")
 				else
-					fn = "manhente-serv" .. server .. "-cli" .. client .. "-run" .. run .. ".txt"
+					fn = "manhente-serv" .. server .. "-cli" .. client .. "-run" .. run .. ".log"
 					--print(folder .. fn)
 					io.write(calculate_mean_time(folder .. fn, current_sheet) .. " \t")
 				end
