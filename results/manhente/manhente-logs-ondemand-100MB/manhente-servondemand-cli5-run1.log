@@ -1,0 +1,35 @@
+multi_clidtop2 received 4 files in 101.21757316589s
+multi_clidtop2 received 4 files in 117.74850893021s
+multi_clidtop2 received 4 files in 108.6676158905s
+multi_clidtop2 received 4 files in 112.95414304733s
+multi_clidtop2 received 4 files in 115.05787611008s
+multi_clidtop2| Files transfered: 20	 Total time taken: 555.64571714401
+Higher time taken: 117.74850893021	 Average time taken: 27.782285857201
+multi_clidtop3 received 4 files in 116.57598590851s
+multi_clidtop3 received 4 files in 108.51100707054s
+multi_clidtop3 received 4 files in 112.68131494522s
+multi_clidtop3 received 4 files in 115.23016810417s
+multi_clidtop3 received 4 files in 110.83390712738s
+multi_clidtop3| Files transfered: 20	 Total time taken: 563.83238315582
+Higher time taken: 116.57598590851	 Average time taken: 28.191619157791
+multi_clidtop1 received 4 files in 123.89248800278s
+multi_clidtop1 received 4 files in 109.98204302788s
+multi_clidtop1 received 4 files in 115.60571694374s
+multi_clidtop1 received 4 files in 111.63352489471s
+multi_clidtop1 received 4 files in 109.52500200272s
+multi_clidtop1| Files transfered: 20	 Total time taken: 570.63877487183
+Higher time taken: 123.89248800278	 Average time taken: 28.531938743591
+multi_clinetb1 received 4 files in 747.05665683746s
+multi_clinetb1 received 4 files in 328.46481609344s
+multi_clinetb1 received 4 files in 331.41505098343s
+multi_clinetb1 received 4 files in 350.19493198395s
+multi_clinetb1 received 4 files in 319.18760609627s
+multi_clinetb1| Files transfered: 20	 Total time taken: 2076.3190619946
+Higher time taken: 747.05665683746	 Average time taken: 103.81595309973
+multi_clinetb2 received 4 files in 776.75876307487s
+multi_clinetb2 received 4 files in 340.33478403091s
+multi_clinetb2 received 4 files in 337.67743396759s
+multi_clinetb2 received 4 files in 313.96735501289s
+multi_clinetb2 received 4 files in 329.81144499779s
+multi_clinetb2| Files transfered: 20	 Total time taken: 2098.5497810841
+Higher time taken: 776.75876307487	 Average time taken: 104.9274890542
